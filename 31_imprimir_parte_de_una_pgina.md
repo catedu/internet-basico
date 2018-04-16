@@ -14,12 +14,12 @@ Soltamos el ratón, hacemos clic con el botón derecho del ratón y seguidamente
 
 ![](img/HERALDO_DE_ARAGON.jpg)
 
-Fig 4.31. Heraldo de Aragón. Captura de pantalla.
+ 4.31. Heraldo de Aragón. Captura de pantalla.
 
 En la ventana de **Imprimir**, en la zona de Intervalo de impresión, picamos la opción **Selección ** y finalmente pulsamos **Aceptar**. De esta forma saldrá impresa una hoja que solo contendrá la noticia que habíamos seleccionado.
 
 
 ![](img/imprimir.jpg)
 
-Fig 4.32. Imprimir selección. Captura de pantalla.
+ 4.32. Imprimir selección. Captura de pantalla.
 

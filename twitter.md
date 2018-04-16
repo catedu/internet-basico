@@ -4,7 +4,7 @@
 
 ![](img/3376955681_c76dde3916_o.jpg)
 
-Fig. 7.9 Twitter website screenshot. Autor: Spencer E. Holtaway. Fuente: [http://www.flickr.com/photos/spencereholtaway/3376955681/](http://www.flickr.com/photos/spencereholtaway/3376955681/) CC
+- 7-9 Twitter website screenshot- Autor: Spencer E- Holtaway- Fuente: http://www-flickr-com/photos/spencereholtaway/3376955681/ CC
 
  
 
@@ -30,13 +30,13 @@ El [Centro de Ayuda de Twitter](https://support.twitter.com/), en su apartado de
 
 Finalmente, recordad que **Twitter es considerada un instrumento fundamental para propagar noticias y compartir los eventos en la red**. Además, es un **medio de comunicación directo** con gente, instituciones, empresas,... que nos interesa seguir y, como otras redes sociales, nos permite compartir contenidos: vídeos, imagen, url,...
 
-## importanteTwitter en educación:
+## ImportanteTwitter en educación:
 
 **En el campo de la educación**, resulta muy interesante como **medio de expresión y comunicación** (entre alumnos y profesores, para los alumnos, como centros,...), una forma rápida de **dar a conocer nuestras experiencias**, de compartir intereses, de encontrar a personas que nos proporcionen ejemplos o contenidos que enriquezcan nuestra práctica y **contactar** con ellas, de **estar informados** sobre los últimas noticias relacionadas con nuestro campo, de conocer la **opinión** de personas destacadas,etc.
 
 Twitter es, probablemente, la red social más usada por el profesorado, donde en 140 caracteres se intercambian experiencias, visiones, opiniones, proyectos en estado puro, sin repositorios con materiales que se acumulan y pueden llegar a entorpecer la generación de nuevas ideas. De hecho, fue en Twitter donde surgió la frase **"Nuestro claustro es la Red"**, que expresa el volumen y calidad de las interacciones que se llegan a dar entre docentes en ámbitos virtuales.
 
-## parasabermas
+## Para Saber Más
 
 - [Usar Twitter en los centros educativos](http://jjdeharo.blogspot.com.es/2009/08/usar-twitter-en-los-centros-educativos.html). Artículo del blog EDUCATIVA de Juan J. de Haro.
 

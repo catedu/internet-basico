@@ -4,7 +4,7 @@
 
 ![](img/8517791513_c817e249eb_o_flickr.jpg)
 
-Fig. 1.47. Samsung WILLIAM-PC. Autor: INTEL_DE. Fuente: [http://www.flickr.com/photos/intel_de/8517791513/](http://www.flickr.com/photos/intel_de/8517791513/)  Licencia Creative Commons.
+- 1-47- Samsung WILLIAM-PC- Autor: INTEL_DE- Fuente: http://www-flickr-com/photos/intel_de/8517791513/  Licencia Creative Commons-
 
  
 

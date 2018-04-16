@@ -4,7 +4,7 @@
 
 ![](img/2613103592_db0b56af1c.jpg)
 
-Fig. 1.44. Vídeo en Internet. Imagen: Biblio escolar. Autor: Néstor Alonso. Fuente: [http://www.flickr.com/photos/nestoralonso/2613103592/](http://www.flickr.com/photos/nestoralonso/2613103592/) Licencia Creative Commons.
+- 1-44- Vídeo en Internet- Imagen: Biblio escolar- Autor: Néstor Alonso- Fuente: http://www-flickr-com/photos/nestoralonso/2613103592/ Licencia Creative Commons-
 
  
 

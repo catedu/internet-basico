@@ -8,7 +8,7 @@ Podemos **descargar** Google Chrome desde [https://www.google.com/intl/es/chrom
 
 ![](img/chrome-logo.png)
 
-Fig 2.9. Logo de Google Chrome.
+ 2.9. Logo de Google Chrome.
 
  
 

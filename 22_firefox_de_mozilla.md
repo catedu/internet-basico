@@ -8,7 +8,7 @@ Firefox de Mozilla se puede **descargar** desde [http://www.mozilla.org/es-ES/f
 
 ![](img/firefox_icono.jpg)
 
-Fig 2.8. Logo de Mozilla de Firefox.
+ 2.8. Logo de Mozilla de Firefox.
 
  
 

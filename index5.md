@@ -4,7 +4,7 @@
 
 ![](img/2613103726_25f247a3a4.jpg)
 
-Fig. 6.1. Web 2.0 y educación. Autor: Néstor Alonso. Fuente: [http://www.flickr.com/photos/nestoralonso/2613103726/](http://www.flickr.com/photos/nestoralonso/2613103726/) CC
+- 6-1- Web 2-0 y educación- Autor: Néstor Alonso- Fuente: http://www-flickr-com/photos/nestoralonso/2613103726/ CC
 
  
 
@@ -32,7 +32,7 @@ Bien, no somos adivinos, pero los [estudios sobre tendencias de Internet ](http:
 
 <iframe frameborder="0" height="511" marginheight="0" marginwidth="0" scrolling="no" src="http://www.slideshare.net/slideshow/embed_code/23454391" style="border-width: 1px 1px 0px; border-style: solid; border-color: #cccccc; margin-right: auto; margin-bottom: 5px; margin-left: auto; display: block;" width="479"></iframe>
 
-## parasabermas
+## Para Saber Más
 
 Si una vez terminado el módulo, te interesa el tema y sientes curiosidad por conocer más sobre la Web 2.0, puedes seguir profundizando con el curso de Aularagón: **"Herramientas Web 2.0"**
 

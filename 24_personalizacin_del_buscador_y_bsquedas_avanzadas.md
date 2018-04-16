@@ -8,7 +8,7 @@ Cuando realizamos una búsqueda simple con Google, este localiza automáticament
 
 ![](img/busqueda_avanzada.jpg)
 
-Fig 4.17. Búsqueda avanzada. Captura de pantalla.
+ 4.17. Búsqueda avanzada. Captura de pantalla.
 
  
 
@@ -19,7 +19,7 @@ Si seleccionamos búsqueda avanzada obtenemos la siguiente pantalla de búsqueda
 
 ![](img/busqueda_avanzada2.jpg)
 
-Fig 4.18. Búsqueda avanzada 2. Captura de pantalla.
+ 4.18. Búsqueda avanzada 2. Captura de pantalla.
 
  
 
@@ -32,7 +32,7 @@ Una de las opciones de búsqueda que nos ofrece google y es muy interesante es l
 
 ![](img/derechos_de_uso.jpg)
 
-Fig 4.19. Derechos de uso. Captura de pantalla.
+ 4.19. Derechos de uso. Captura de pantalla.
 
  
 

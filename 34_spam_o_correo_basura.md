@@ -24,5 +24,5 @@
 
  
 
-Fig. 1.50. e-mail spam. Autor: Jean Pierre Gallot. Fuente: [http://www.flickr.com/photos/jean_pierre_gallot_69009/8456188320/](http://www.flickr.com/photos/jean_pierre_gallot_69009/8456188320/) Licencia Creative Commons
+- 1-50- e-mail spam- Autor: Jean Pierre Gallot- Fuente: http://www-flickr-com/photos/jean_pierre_gallot_69009/8456188320/ Licencia Creative Commons
 

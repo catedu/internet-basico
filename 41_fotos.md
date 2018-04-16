@@ -43,7 +43,7 @@ Para utilizar este recurso sigue las instrucciones que se dan en este manual:
 
 [http://es.scribd.com/doc/70768636/Manual-Kizoa](http://es.scribd.com/doc/70768636/Manual-Kizoa)
 
-## parasabermas
+## Para Saber Más
 
 Hay otros sitios que nos ofrecen recursos para el tratamiento, alojamiento o presentación de imágenes, aquí te presentamos dos más:
 <td style="width: 300px; text-align: center;">**ACTIVIDAD**</td><td style="width: 300px; text-align: center;">**RECURSO**</td><td style="width: 300px; text-align: center;">**MANUAL**</td>

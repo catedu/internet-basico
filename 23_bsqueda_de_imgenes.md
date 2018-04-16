@@ -8,7 +8,7 @@ Para acceder a esta opción debemos pinchar sobre la pestaña Imágenes de la p�
 
 ![](img/imagenes.jpg)
 
-Fig 4.14. Imágenes. Captura de pantalla.
+ 4.14. Imágenes. Captura de pantalla.
 
  
 
@@ -19,7 +19,7 @@ Si ponemos el puntero del ratón sobre la imagen aparece el tamaño de la misma 
 
 ![](img/imagen_1.jpg)
 
-Fig 4.15. Imagen. Captura de pantalla.
+ 4.15. Imagen. Captura de pantalla.
 
  
 
@@ -30,7 +30,7 @@ Una vez en tamaño completo si hacemos un clic sobre ella con el botón derecho 
 
 ![](img/imagen_2.jpg)
 
-Fig 4.16. Imagen 2. Captura de pantalla.
+ 4.16. Imagen 2. Captura de pantalla.
 
 Desde aquí tenemos la posibilidad de copiar la imagen o guardar la imagen en nuestro ordenador.
 

@@ -6,5 +6,5 @@ Los buscadores se pueden clasificar en **tres tipos**, según la **forma de obte
 
 ![](img/huellas.jpg)
 
-Fig 4.2. Huellas. Autor: Anonymous. http://openclipart.org/detail/34681/architetto----tante-orma-sulla-neve-by-anonymous. OpenClipArt.
+ 4.2. Huellas. Autor: Anonymous. http://openclipart.org/detail/34681/architetto----tante-orma-sulla-neve-by-anonymous. OpenClipArt.
 

@@ -9,7 +9,7 @@ Para evitarlas debemos **seguir los consejos de seguridad expuestos en los apart
 
  A continuación, consulta la página del [Grupo de Delitos Telemáticos de la Guardia Civil ](https://www.gdt.guardiacivil.es/webgdt/enlaces.php)para disponer de más información, consejos y referencias sobre los delitos a través de Internet.
 
-## parasabermas
+## Para Saber Más
 
 **Pantallas Amigas** es una iniciativa que promueve el uso seguro de Internet entre niños y adolescentes:
 
@@ -19,7 +19,7 @@ Tienen además de la web, un canal en Youtube con muchos vídeos y animaciones p
 
 [http://www.youtube.com/user/PantallasAmigas](http://www.youtube.com/user/PantallasAmigas)
 
-## parasabermas
+## Para Saber Más
 
 Los diez mayores peligros de Internet (artículo de ABC):
 

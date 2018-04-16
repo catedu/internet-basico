@@ -4,7 +4,7 @@
 
 ![](img/Play_icon_status.png)
 
-Fig. 6.7. Play icon status. Fuente: [http://commons.wikimedia.org/wiki/File:Play_icon_status.png](http://commons.wikimedia.org/wiki/File:Play_icon_status.png) CC
+- 6-7- Play icon status- Fuente: http://commons-wikimedia-org/wiki/File:Play_icon_status-png CC
 
 Los vídeos son siempre un buen apoyo en el aula: permite ampliar contenidos, acercarnos a realidades desconocidas, capta la atención de los alumnos, etc.
 
@@ -20,7 +20,7 @@ El vídeo nos ofrece muchos** usos en el aula**:
 - Poseer una televisión a la carta.
 - Visionar acontecimientos, celebraciones, actividades del mismo centro…
 
-## parasabermas
+## Para Saber Más
 
 Como herramienta Web 2.0, estos portales de **vídeo, están disponibles online**, pero en ocasiones necesitamos visualizar determinados vídeos y no disponemos de una conexión a internet. En esos casos, tenemos la opción de **descargar los vídeos** con anterioridad.
 

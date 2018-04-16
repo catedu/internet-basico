@@ -12,15 +12,15 @@ En este momento, todos los equipos, ya vienen preparados con los dispositivos in
 
 ![](img/Icon_for_My_Computer_notebook_by_Darkeviant_deviantartThumbnail.png)
 
-![](App_Store_on_SmartphoneThumbnail.png)
+![](img/App_Store_on_SmartphoneThumbnail.png)
 
-![](5536539643_7bd55e7d8f_oThumbnail.png)
+![](img/5536539643_7bd55e7d8f_oThumbnail.png)
 
-![](Kindle_PaperwhiteThumbnail.png)
+![](img/Kindle_PaperwhiteThumbnail.png)
 
-![](LG_smart_TVThumbnail.png)
+![](img/LG_smart_TVThumbnail.png)
 
-![](A_Google_Glass_wearerThumbnail.png)
+![](img/A_Google_Glass_wearerThumbnail.png)
 
-![](Samsung_Galaxy_Gear_ComparisonThumbnail.png)
+![](img/Samsung_Galaxy_Gear_ComparisonThumbnail.png)
 

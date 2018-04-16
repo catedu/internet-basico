@@ -4,7 +4,7 @@
 
 ![](img/3376955055_b0aba92518_o.jpg)
 
-Fig. 7.7.  facebook website screenshot. Autor: Spencer E. Holtaway. Fuente: [http://www.flickr.com/photos/spencereholtaway/3376955055/](http://www.flickr.com/photos/spencereholtaway/3376955055/) CC
+- 7-7-  facebook website screenshot- Autor: Spencer E- Holtaway- Fuente: http://www-flickr-com/photos/spencereholtaway/3376955055/ CC
 
  
 
@@ -27,7 +27,7 @@ Actualmente, cuenta con más de 1.100 millones de usuarios en 110 idiomas difere
 
 ![](img/Facebook_like_thumb.png)
 
-Fig. 7.8. Facebook_like_thumb. Fuente:[http://upload.wikimedia.org/wikipedia/commons/1/13/Facebook_like_thumb.png](http://upload.wikimedia.org/wikipedia/commons/1/13/Facebook_like_thumb.png) CC
+- 7-8- Facebook_like_thumb- Fuente:http://upload-wikimedia-org/wikipedia/commons/1/13/Facebook_like_thumb-png CC
 
  
 
@@ -39,7 +39,7 @@ Desde el** punto de vista educativo**, Facebook nos permite buscar y conocer pla
 
 También es posible ponernos en contacto con ellos o comenzar a formar parte de grupos (abiertos o cerrados) que comparten un mismo interés sobre aspectos del ámbito de la educación, por ejemplo: "Docentes", "Proyecto colaborativo Palabras Azules", "Blogs educativos",...
 
-## parasabermas
+## Para Saber Más
 
 - Política de uso de datos en Facebook: [https://es-es.facebook.com/about/privacy](https://es-es.facebook.com/about/privacy)
 - Ayuda general de Facebook: te explica desde cómo crear una cuenta hasta cómo configurarla revisando todas sus funciones, servicios y aplicaciones: [https://es-es.facebook.com/help/288066747875915#!/help/](https://es-es.facebook.com/help/288066747875915#!/help/)

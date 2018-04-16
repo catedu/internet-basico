@@ -12,9 +12,9 @@ Puedes acceder a Google Maps pinchando en: [https://maps.google.es/?hl=en](http
 
 ![](img/google_maps.jpg)
 
-Fig 4.22. Google Maps. Captura de pantalla.
+ 4.22. Google Maps. Captura de pantalla.
 
-## ParaSaberMas
+## Para Saber Más
 
 Para aprender a utilizar Google Maps visualiza el siguiente videotutorial.
 

@@ -6,5 +6,5 @@ A lo largo de esta unidad vamos a profundizar en tres de los navegadores más ut
 
 ![](img/navegadores3.jpg)
 
-Fig 2.6. Navegadores. Autor: Janioquadros.com. http://www.flickr.com. Licencia de Creative Commons.
+ 2.6. Navegadores. Autor: Janioquadros.com. http://www.flickr.com. Licencia de Creative Commons.
 

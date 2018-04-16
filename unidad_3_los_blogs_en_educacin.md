@@ -6,7 +6,7 @@ Los [blogs](http://www.ite.educacion.es/formacion/materiales/155/cd/modulo_1_Ini
 
 ![](img/Blog_iconoiiiiiiii.jpg)
 
-Fig. 5.20. Blog iconiiiiiiiii. Fuente: [http://commons.wikimedia.org/wiki/File:Blog_iconoiiiiiiii.jpg](http://commons.wikimedia.org/wiki/File:Blog_iconoiiiiiiii.jpg) CC
+- 5-20- Blog iconiiiiiiiii- Fuente: http://commons-wikimedia-org/wiki/File:Blog_iconoiiiiiiii-jpg CC
 
  
 

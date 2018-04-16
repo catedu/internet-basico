@@ -4,7 +4,7 @@
 
 ![](img/4733690493_e846833dbc_o.jpg)
 
-Fig. 7.11. Estos chicos graciosos usando las redes sociales en el aula de informática. Autor: Ángel Abril Ruiz. Fuente: [http://www.flickr.com/photos/aabrilru/4733690493/](http://www.flickr.com/photos/aabrilru/4733690493/) CC
+- 7-11- Estos chicos graciosos usando las redes sociales en el aula de informática- Autor: Ángel Abril Ruiz- Fuente: http://www-flickr-com/photos/aabrilru/4733690493/ CC
 
  
 

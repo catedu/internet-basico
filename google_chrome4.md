@@ -11,14 +11,14 @@
 
  
 
-Fig 2.51. Historial. Captura de pantalla.
+ 2.51. Historial. Captura de pantalla.
 
  
 
 
 ![](img/historial_Chrome2.jpg)
 
-Fig 2.52. Historial 2. Captura de pantalla.
+ 2.52. Historial 2. Captura de pantalla.
 
  
 
@@ -36,7 +36,7 @@ Tendremos **dos opciones**: 
 
 ![](img/borrar_chrome.jpg)
 
-Fig 2.53. Historial 3. Captura de pantalla.
+ 2.53. Historial 3. Captura de pantalla.
 
  
 

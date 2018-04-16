@@ -19,7 +19,7 @@ En sus orígenes, el correo electrónico en Internet sólo permitía el envío d
 
 ![](img/Email_icon_crystal.png)
 
-Fig. 1.36. Email_icon_crystal. Fuente: [http://upload.wikimedia.org/wikipedia/commons/7/74/Email_icon_crystal.png](http://upload.wikimedia.org/wikipedia/commons/7/74/Email_icon_crystal.png) Licencia Creative Commons
+- 1-36- Email_icon_crystal- Fuente: http://upload-wikimedia-org/wikipedia/commons/7/74/Email_icon_crystal-png Licencia Creative Commons
 
      Hay dos formas básicas de utilizar el correo:
 

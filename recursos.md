@@ -19,14 +19,14 @@ Para acceder a ellas de una forma guiada, basada en el análisis y experiencia p
 
 ![](img/jr_2.0.JPG)
 
- Fig. 6.4. Blog JR 2.0. Captura de pantalla
+ 6-4- Blog JR 2-0- Captura de pantalla
 
  *[ FacilyTIC](http://www.catedu.es/facilytic/): Una página del CATEDU que pone a nuestra disposición ayudas y tutoriales de las herramientas básicas para integrar las TIC en nuestras aulas.
 
 
 ![](img/facilyTIC.JPG)
 
-Fig. 6.5. FacilyTIC.Captura de pantalla
+- 6-5- FacilyTIC-Captura de pantalla
 
 * [Blog Recursos Web 2.0](http://recursosweb2.blogia.com/): Una buena selección de recurso clasisficados por utilidades.
 

@@ -4,7 +4,7 @@
 
 ![](img/youtube.JPG)
 
- Fig. 6.8. Logotipo Youtube. Captura de pantalla.
+ 6-8- Logotipo Youtube- Captura de pantalla-
 
 [Youtube](https://www.youtube.com/?gl=ES) apareció a principios de 2005 y fue adquirido por Google en octubre de 2006 por 1650 millones de dólares. Actualmente, **es el sitio web de alojamiento de vídeos más usado del mundo**. Sus **datos** son espectaculares:
 

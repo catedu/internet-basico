@@ -6,5 +6,5 @@ Una de las funciones más habituales que podemos realizar al visitar páginas we
 
 ![](img/download.jpg)
 
-Fig 4.30. Download. Autor: Kuba. http://openclipart.org/detail/87799/download-package-by-kuba. OpenClipArt.
+ 4.30. Download. Autor: Kuba. http://openclipart.org/detail/87799/download-package-by-kuba. OpenClipArt.
 

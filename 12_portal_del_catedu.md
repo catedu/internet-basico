@@ -6,7 +6,7 @@ El** Centro Aragonés de Tecnologías para la Educación** ([CATEDU](http://www.
 
 ![](img/catedu.JPG)
 
-Fig. 5.7. Catedu. Captura de pantalla.
+- 5-7- Catedu- Captura de pantalla-
 
  Como vemos, el portal se encuentra dividido en 3 columnas. A la izquierda encontramos un ámplio menú sobre el que volveremos más adelante, en la central están los artículos de los temas e informaciones más importantes en ese momento y a la derecha encontramos enlaces a algunos de los portales y servicios más interesantes del CATEDU.
 

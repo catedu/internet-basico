@@ -19,7 +19,7 @@ Este vídeo nos explica algunos datos sobre la expansión y uso que se hace de l
 
  
 
-## importante
+## Importante
 
 **La importancia de las redes sociales**, radica por tanto en varios aspectos:
 
@@ -33,7 +33,7 @@ Este vídeo nos explica algunos datos sobre la expansión y uso que se hace de l
 
 - La funcionalidad y ubicuidad que ofrecen, permiten a sus usuarios multitud de usos y aplicaciones prácticas para diferenes momentos y situaciones.
 
-## importante
+## Importante
 
 Hay que tener en cuenta que **la expansión de las redes sociales está muy ligada al aumento del uso de dispositivos móviles** como smartphones y tablets que nos permiten conectarnos a Internet (con tecnologías WiFi y 3G o 4G) en cualquier lugar en cualquier momento. 
 

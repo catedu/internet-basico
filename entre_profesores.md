@@ -4,7 +4,7 @@
 
 ![](img/1824234195_e6b913c563_z.jpg)
 
-Fig. 7.12. My social Network on Flickr, Facebook, Twitter and MyblogLog, Autor: Luc Legay. Fuente: [http://www.flickr.com/photos/luc/1824234195/](http://www.flickr.com/photos/luc/1824234195/) CC
+- 7-12- My social Network on Flickr, Facebook, Twitter and MyblogLog, Autor: Luc Legay- Fuente: http://www-flickr-com/photos/luc/1824234195/ CC
 
  
 
@@ -31,11 +31,11 @@ Hay muchos ejemplos, pero en este vídeo, podéis ver uno en el que profesores d
 
 {% youtube %}https//www.youtube.com/watch?v=qbKx3fKm9JY?list=PLomVskJLH_o2HMUbScJAgCkBgYOS4JwrW{% endyoutube %}
 
-## importante
+## Importante
 
 A lo largo del curso hemos ido dando muchas y destacando su importancia, sin embargo, en este artículo del blog de INTEF (Instituto Nacional de Tecnologías Educativas y Formación del Profesorado) se recogen de forma clara y respaldada por expertos ["10 razones para una educación conectada"](http://blog.educalab.es/intef/2013/07/11/10-razones-para-una-educacion-conectada/) .
 
-## parasabermas
+## Para Saber Más
 
 Para utilizar de las redes sociales y las TIC en general de la forma que se está proponiendo, es necesario que el docente desarrolle una serie de competencias, como se señala en el artículo de Jordi Martí ["Competencias docentes en relación a las redes sociales" ](http://www.domingomendez.es/wp/?page_id=229)del blog de claustro del Colegio Jaime Balmes de Cieza.
 

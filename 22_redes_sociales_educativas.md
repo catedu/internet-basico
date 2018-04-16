@@ -8,7 +8,7 @@ En la siguiente web podemos ver algunas redes sociales creadas con un objetivo e
 
 ![](redes_sociales_educativas.JPG)
 
-## parasabermas
+## Para Saber Más
 
 Otras redes sociales interesantes para docentes (desde Wikispaces.com): [http://redeseducativas.wikispaces.com/Redes+para+docentes](http://redeseducativas.wikispaces.com/Redes+para+docentes)
 

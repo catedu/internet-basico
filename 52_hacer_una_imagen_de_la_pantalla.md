@@ -10,7 +10,7 @@ Impresión sólo dándole al botón Imp. Pant.
 
 ![](img/imprimir7.jpg)
 
-Fig 2.60. Imagen. Captura de pantalla.
+ 2.60. Imagen. Captura de pantalla.
 
  
 
@@ -21,7 +21,7 @@ Como puedes comprobar sale todo lo que tienes en ese momento en la pantalla. Si 
 
 ![](img/imprimir8.jpg)
 
-Fig 2.61. Imagen 2. Captura de pantalla.
+ 2.61. Imagen 2. Captura de pantalla.
 
  
 

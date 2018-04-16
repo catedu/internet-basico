@@ -4,7 +4,7 @@
 
 ![](img/Tobacco_Mosaic_Virus_structure_wikipedia.png)
 
-Fig. 1.46. Virus. Imagen: Tobacco_Mosaic_Virus_structure wikipedia. Fuente: [http://commons.wikimedia.org/wiki/File:Tobacco_mosaic_virus_structure.png](http://commons.wikimedia.org/wiki/File:Tobacco_mosaic_virus_structure.png) Licencia Creative Commons
+- 1-46- Virus- Imagen: Tobacco_Mosaic_Virus_structure wikipedia- Fuente: http://commons-wikimedia-org/wiki/File:Tobacco_mosaic_virus_structure-png Licencia Creative Commons
 
  
 

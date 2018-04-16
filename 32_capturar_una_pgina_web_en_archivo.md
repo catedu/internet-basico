@@ -25,7 +25,7 @@ Para ello basta picar sobre el botón de crear nueva carpeta tal y como aparece 
 
 ![](img/guardar_como2.jpg)
 
-Fig 4.34. Guardar como. Captura de pantalla.
+ 4.34. Guardar como. Captura de pantalla.
 
  
 
@@ -36,7 +36,7 @@ Fig 4.34. Guardar como. Captura de pantalla.
 
 ![](img/nueva_carpeta.jpg)
 
-Fig 4.35. Nueva carpeta. Captura de pantalla.
+ 4.35. Nueva carpeta. Captura de pantalla.
 
  
 
@@ -47,7 +47,7 @@ Vuelve a seleccionarla y a continuación pulsa el botón **Abrir**. De esta form
 
 ![](img/carpetapaginaweb.jpg)
 
-Fig 4.36. Carpeta página web. Captura de pantalla.
+ 4.36. Carpeta página web. Captura de pantalla.
 
  
 
@@ -60,7 +60,7 @@ En la línea Nombre de archivo aparece el nombre del archivo que contendrá nues
 
 ![](img/guardar_como3.jpg)
 
-Fig 4.37. Guardar página web. Captura de pantalla.
+ 4.37. Guardar página web. Captura de pantalla.
 
  
 

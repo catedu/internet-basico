@@ -4,7 +4,7 @@
 
 ![](img/8517791513_c817e249eb_o_flickr.jpg)
 
- Fig. 5.23. Samsung WILLIAM-PC. Autor: Intel in Deutschland. Fuente: [http://www.flickr.com/photos/intel_de/8517791513/](http://www.flickr.com/photos/intel_de/8517791513/) CC
+ 5-23- Samsung WILLIAM-PC- Autor: Intel in Deutschland- Fuente: http://www-flickr-com/photos/intel_de/8517791513/ CC
 
  
 

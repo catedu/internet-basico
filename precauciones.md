@@ -6,7 +6,7 @@
 
  
 
-Fig. 1.48. Antivirus. Imagen:   Ejército-Antivirus-Wikipedia. Fuente:   [http://es.m.wikipedia.org/wiki/Archivo:Ej%C3%A9rcito-Antivirus-Wikipedia.PNG](http://es.m.wikipedia.org/wiki/Archivo:Ej%C3%A9rcito-Antivirus-Wikipedia.PNG) Licencia Creative Commons
+- 1-48- Antivirus- Imagen:   Ejército-Antivirus-Wikipedia- Fuente:   http://es-m-wikipedia-org/wiki/Archivo:Ej%C3%A9rcito-Antivirus-Wikipedia-PNG Licencia Creative Commons
 
  
 

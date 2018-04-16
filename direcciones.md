@@ -15,7 +15,7 @@ Familiarízate con las cuentas de correo de educa. En caso de que no dispongas d
 
 Esta cuenta de correo electrónico te permite además, acceder al portal del empleado donde puedes llevar a cabo varios trámites administrativos y además consultar tu nómina. 
 
-## ParaSaberMas
+## Para Saber Más
 
 - Si te interesa trabajar con el calendario del correo educa.aragon.es pincha en el siguiente documento en el cual se explica como utilizarlo: [Trabajar con el calendario.](COR_EDU_CALENDARIO.PDF)
 

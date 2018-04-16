@@ -8,5 +8,5 @@ En este apartado vamos a proponer algunas páginas web que pueden ser interesant
 
 ![](img/6132161194_05f45c8386.jpg)
 
-Fig.5.18. Web building. Autor: Bogie Garry. Fuente: [http://www.flickr.com/photos/bgarry/6132161194/](http://www.flickr.com/photos/bgarry/6132161194/) CC
+.5.18. Web building. Autor: Bogie Garry. Fuente: [http://www.flickr.com/photos/bgarry/6132161194/](http://www.flickr.com/photos/bgarry/6132161194/) CC
 

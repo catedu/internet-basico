@@ -10,7 +10,7 @@ Hay dos formas básicas de acceder al correo electrónico: a través de un progr
 
 ![](Emails.jpg)
 
-Fig 1.1.  Immagine tratta dal sito del Partito Comunista dei Lavoratori della città di bologna (Italia). Autor: PCL-BO. [http://sites.google.com/site/pclbologna/_/rsrc/1295479585796/home/emails.jpg](http://sites.google.com/site/pclbologna/_/rsrc/1295479585796/home/emails.jpg). Creative Commons Attribution ShareAlike 2.5
+ 1.1.  Immagine tratta dal sito del Partito Comunista dei Lavoratori della città di bologna (Italia). Autor: PCL-BO. [http://sites.google.com/site/pclbologna/_/rsrc/1295479585796/home/emails.jpg](http://sites.google.com/site/pclbologna/_/rsrc/1295479585796/home/emails.jpg). Creative Commons Attribution ShareAlike 2.5
 
  
 

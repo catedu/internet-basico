@@ -21,7 +21,7 @@ En el siguiente vídeo, se explica cómo la Web 2.0 se ha ido haciendo un hueco 
 
  
 
-## importante
+## Importante
 
 Hasta ahora hemos visto cómo se **justificaba la integración de la Web 2.0 en las aulas**. Para reforzar la idea de que una **nueva sociedad necesita una escuela con planteamientos renovados** (metodología, herramientas, accesibilidad, conectividad,...) vamos a ver este vídeo que nos plantea algunos puntos importantes de reflexión:
 
@@ -32,7 +32,7 @@ Hasta ahora hemos visto cómo se **justificaba la integración de la Web 2.0 en 
 
  
 
-## parasabermas
+## Para Saber Más
 
 Si quieres conocer más a fondo la Web 2.0 puedes consultar este artículo del ObservatorioTecnológico del MECD:
 

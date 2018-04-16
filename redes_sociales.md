@@ -4,7 +4,7 @@
 
 ![](img/Redes-sociales-tacticas_wikipedia.jpg)
 
-Fig. 1.41. Redes sociales. Fuente: [http://upload.wikimedia.org/wikipedia/commons/0/03/Redes-sociales-tacticas.jpg](http://upload.wikimedia.org/wikipedia/commons/0/03/Redes-sociales-tacticas.jpg) Licencia Creative Commons
+- 1-41- Redes sociales- Fuente: http://upload-wikimedia-org/wikipedia/commons/0/03/Redes-sociales-tacticas-jpg Licencia Creative Commons
 
  
 

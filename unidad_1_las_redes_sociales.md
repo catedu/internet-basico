@@ -4,7 +4,7 @@
 
 ![](img/8464661409_32aa7a26a6_b.jpg)
 
-Fig 5.1. Redes sociales. Autor: Frau Holler. Fuente: [https://clipsan.com/blog/socialni-site-seznamte-se/](https://clipsan.com/blog/socialni-site-seznamte-se/) CC
+ 5.1. Redes sociales. Autor: Frau Holler. Fuente: [https://clipsan.com/blog/socialni-site-seznamte-se/](https://clipsan.com/blog/socialni-site-seznamte-se/) CC
 
  
 

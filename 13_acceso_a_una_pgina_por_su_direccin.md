@@ -6,7 +6,7 @@ En múltiples ocasiones, llega hasta nosotros la dirección de un página web qu
 
 ![](img/direccion.jpg)
 
-Fig 2.5. Barra de direcciones. Captura de pantalla.
+ 2.5. Barra de direcciones. Captura de pantalla.
 
 Para acceder a una página mediante la **barra de direcciones** sólo tenemos que seguir los siguientes pasos:
 

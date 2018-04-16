@@ -10,5 +10,5 @@ Ahora que ya has navegado habrás observado que, al arrancar un navegador autom�
 
  
 
-Fig 2.12. Página de inicio. Captura de pantalla.
+ 2.12. Página de inicio. Captura de pantalla.
 

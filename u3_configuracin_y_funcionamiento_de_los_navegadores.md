@@ -10,7 +10,7 @@ A lo largo de esta unidad vamos a profundizar en cómo podemos trabajar con tres
 
  
 
-Fig 2.10. Navegadores. Autor: VVMSS2. http://commons.wikimedia.org. Creative Commons Attribution-Share Alike 3.0 Unported license
+ 2.10. Navegadores. Autor: VVMSS2. http://commons.wikimedia.org. Creative Commons Attribution-Share Alike 3.0 Unported license
 
  
 

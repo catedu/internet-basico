@@ -10,7 +10,7 @@ Su misión es la de almacenar, en su disco duro, los mensajes que envía y que r
 
 ![](img/275px-Caja_04.svg.png)
 
-Fig 1.3. Caja verde abierta. Autor: Jjyepez. Licencia de documentación libre GNU
+ 1.3. Caja verde abierta. Autor: Jjyepez. Licencia de documentación libre GNU
 
 Los servidores de correo utilizan dos protocolos de comunicación diferentes: el protocolo para enviar mensajes (**SMTP**) y el protocolo para recibir mensajes (**POP**).  Hay proveedores de Internet que utilizan un ordenador servidor para recibir correo y otro ordenador servidor para enviar el correo pero también los hay que utilizan un único servidor de correo que soporta los dos protocolos.  
 

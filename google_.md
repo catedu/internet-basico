@@ -4,7 +4,7 @@
 
 ![](img/Google_logo.png)
 
-Fig. 7.10. Google+_logo. Fuente: Wikipedia. CC
+- 7-10- Google+_logo- Fuente: Wikipedia- CC
 
  
 
@@ -27,7 +27,7 @@ Otro aspecto destacable de G+ es que el hecho de pertenecer a Google, **permite 
 
 **Muchas de las herramientas que nos ofrece Google tienen evidentes aplicaciones dentro de un entorno educativo Web 2.0**, por tanto, **Google + puede ser una interesante plataforma para centralizar muchos de esos usos y compartir con nuestros alumnos** (desde un círculo) **o nuestros compañeros** (desde otro) actividades, recursos, comentarios, etc. y explotándolo más como red social, ponernos en contacto con otros grupos de docentres, centros, aulas,... con las que desarrollar proyectos conjuntos.
 
-## parasabermas
+## Para Saber Más
 
 **Si quieres conocer más** de esta red social puedes consultar los siguientes artículos o tutoriales:
 

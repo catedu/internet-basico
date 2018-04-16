@@ -10,5 +10,5 @@ La idea de base de la WWW consiste en la existencia de servidores que proporcion
 
 ![](img/World_wide_web_wiki.jpg)
 
-Fig. 1.35. World_wide_web wiki. Fuente:[http://upload.wikimedia.org/wikipedia/commons/2/2e/World_wide_web.jpg](http://upload.wikimedia.org/wikipedia/commons/2/2e/World_wide_web.jpg) Licencia Creative Commons
+- 1-35- World_wide_web wiki- Fuente:http://upload-wikimedia-org/wikipedia/commons/2/2e/World_wide_web-jpg Licencia Creative Commons
 

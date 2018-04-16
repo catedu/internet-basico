@@ -4,7 +4,7 @@
 
 ![](img/3027199004_7801aed7fe_o.png)
 
-Fig. 1.49. Antivirus. Imagen: antivirus-partners Autor: Thomas Guest Fuente: [http://www.flickr.com/photos/thomasguest/3027199004/](http://www.flickr.com/photos/thomasguest/3027199004/) Creative Commons.
+- 1-49- Antivirus- Imagen: antivirus-partners Autor: Thomas Guest Fuente: http://www-flickr-com/photos/thomasguest/3027199004/ Creative Commons-
 
  
 
@@ -58,13 +58,13 @@ Video tutorial
 
 Además de éstos, hay **programas específicos para spyware, troyanos, virus concretos** (por ejemplo: Polifix está diseñado para eliminar el virus de la policía) o **discos de rescate** que se usan para revisar el ordenador arrancando desde el modo seguro (por ejemplo: Kaspersky recue disck).
 
-## importante
+## Importante
 
 El malware se propaga a través de la red, por eso, es importante tener protegido no sólo nuestro ordenador, sino todos nuestros dispositivos con capacidad para conectarse a Internet: tabletas, smartphones,... hay antivirus disponibles para todos ellos.
 
  
 
-## parasabermas
+## Para Saber Más
 
 En este vídeo comparan los anteriores antivirus gratuitos explicando sus puntos fuertes y débiles, en qué situaciones son más recomendables, cómo han evolucionado, cómo es su manejo,...
 

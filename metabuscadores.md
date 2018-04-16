@@ -8,7 +8,7 @@ Los **metabuscadores** son páginas web en las que se nos ofrece una búsqueda s
 
 ![](img/metacrawler.jpg)
 
-Fig 4.5. Metacrawler. Captura de pantalla.
+ 4.5. Metacrawler. Captura de pantalla.
 
 ## Pregunta Verdadero-Falso
 

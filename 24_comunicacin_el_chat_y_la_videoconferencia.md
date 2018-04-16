@@ -12,7 +12,7 @@ La diferencia con la mensajería instantánea radica en que e**l **Chat** no nec
 
 ![](img/Blog-commentskkkkk_wikipedia.jpg)
 
-Fig. 1.37. Chat. Imagen: Blog-commentskkkkk wikipedia. Fuente: [http://commons.wikimedia.org/wiki/File:Blog-commentskkkkk.jpg](http://commons.wikimedia.org/wiki/File:Blog-commentskkkkk.jpg) Licencia Creative Commons.
+- 1-37- Chat- Imagen: Blog-commentskkkkk wikipedia- Fuente: http://commons-wikimedia-org/wiki/File:Blog-commentskkkkk-jpg Licencia Creative Commons-
 
  
 
@@ -33,5 +33,5 @@ Una evolución del chat son la **mensajería por voz y la videoconferencia**.
 
 ![](img/skype2.jpg)
 
-Fig. 1.38. Icono Skype. Captura de pantalla
+- 1-38- Icono Skype- Captura de pantalla
 

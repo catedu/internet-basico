@@ -22,7 +22,7 @@ Como hemos visto, la variedad de redes sociales en Internet es enorme y, en ge
 
 ![](img/clasificacion_rrss.JPG)
 
-Fig. 7.5. Clasificación RR.SS. Captura de pantalla.
+- 7-5- Clasificación RR-SS- Captura de pantalla-
 
  
 

@@ -10,7 +10,7 @@ El primer índice de búsqueda que apareció fue Yahoo! que sigue ofreciendo sus
 
 ![](img/yahoo.jpg)
 
-Fig 4.3. Yahoo. Captura de pantalla.
+ 4.3. Yahoo. Captura de pantalla.
 
  
 

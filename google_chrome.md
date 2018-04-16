@@ -13,7 +13,7 @@ Selecciona **Configuración**.
 
 ![](img/chrome2.jpg)
 
-Fig 2.20. Aspecto. Captura de pantalla.
+ 2.20. Aspecto. Captura de pantalla.
 
  
 

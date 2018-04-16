@@ -12,7 +12,7 @@ Para acceder a Google Docs pincha en: [https://accounts.google.com/](https://ac
 
 ![](img/google_docs.jpg)
 
-Fig 4.27. Google Docs. Captura de pantalla.
+ 4.27. Google Docs. Captura de pantalla.
 
  
 

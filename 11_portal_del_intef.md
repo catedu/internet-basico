@@ -8,7 +8,7 @@ El** Instituto Nacional de Tecnologías de la Educación y Formación del Profe
 
 ![](img/Intef_inicio.jpg)
 
-Fig. 5.2. INTEF ([http://www.ite.educacion.es/](http://www.ite.educacion.es/)) Captura de pantalla.
+- 5-2- INTEF (http://www-ite-educacion-es/ Captura de pantalla-
 
  
 
@@ -33,5 +33,5 @@ Abajo del todo aparecen las páginas de los programas o **plataformas más impor
 
 ![](img/paginas_intef.JPG)
 
-Fig. 5.3. Portal INTEF. Captura de pantalla.
+- 5-3- Portal INTEF- Captura de pantalla-
 

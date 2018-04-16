@@ -4,7 +4,7 @@
 
 ![](img/menu_intef.JPG)
 
-Fig. 5.4. Menú INTEF. Captura de pantalla.
+- 5-4- Menú INTEF- Captura de pantalla-
 
  
 
@@ -17,7 +17,7 @@ Fig. 5.4. Menú INTEF. Captura de pantalla.
 
 ![](img/formacion_en_red.JPG)
 
-Fig. 5.5. Formación en Red. Captura de pantalla.
+- 5-5- Formación en Red- Captura de pantalla-
 
 Como vemos, se organiza en 3 columnas, la de la izquierda es el menú de contenidos de la página, en la central nos aparecen las informaciones generales y a la derecha las últimas noticias.
 

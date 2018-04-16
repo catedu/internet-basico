@@ -16,12 +16,9 @@ Es la que nos va a proporcionar resultados más numerosos, siempre que el objeto
 
 3.- Si pinchamos en **Herramientas de búsqueda **se nos ofrecen las siguientes posibilidades: buscar por país, idioma, fecha o todos los resultados.
 
- 
-
-
 ![](img/herramientas_de_busqueda.jpg)
 
-Fig 4.9. Herramientas de búsqueda. Captura de pantalla.
+ 4.9. Herramientas de búsqueda. Captura de pantalla.
 
  
 
@@ -32,7 +29,7 @@ Observamos que se muestran gran variedad de páginas relacionadas con la palabra
 
 ![](img/busqueda1.jpg)
 
-Fig 4.10. Búsqueda 2. Captura de pantalla.
+ 4.10. Búsqueda 2. Captura de pantalla.
 
  
 
@@ -41,7 +38,7 @@ Podemos observar que se nos muestran otras posibilidades para buscar sobre el te
 
 ![](img/busqueda3.jpg)
 
-Fig 4.11. Búsqueda 3. Captura de pantalla.
+ 4.11. Búsqueda 3. Captura de pantalla.
 
  
 
@@ -52,7 +49,7 @@ Si el buscador no está en el idioma deseado puedes cambiarlo. Para ello, debes 
 
 ![](img/idioma1.jpg)
 
-Fig 4.12. Idioma. Captura de pantalla.
+ 4.12. Idioma. Captura de pantalla.
 
  
 
@@ -63,7 +60,7 @@ Tras pinchar en idioma se nos abre la siguiente pantalla.
 
 ![](img/idioma.jpg)
 
-Fig 4.13. Idioma 2. Captura de pantalla.
+ 4.13. Idioma 2. Captura de pantalla.
 
  
 

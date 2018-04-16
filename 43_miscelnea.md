@@ -45,7 +45,7 @@ Y este un ejemplo de presentación con Slideboom en infantil:
 
  
 
-## parasabermas
+## Para Saber Más
 
 En la siguiente tabla puedes encontrar otros muchos recursos que se usan habitualmente en las aulas para llevar a cabo distintas actividades:
 

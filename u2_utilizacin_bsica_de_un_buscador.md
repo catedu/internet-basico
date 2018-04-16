@@ -6,5 +6,5 @@ Cualquier buscador de entre los vistos hasta ahora, seguramente nos proporcionar
 
 ![](img/google1.jpg)
 
-Fig 4.6. Google. Captura de pantalla.
+ 4.6. Google. Captura de pantalla.
 

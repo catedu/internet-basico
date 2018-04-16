@@ -4,7 +4,7 @@
 
 ![](img/Internet1.jpg)
 
-Fig. 1.34. Internet1. Fuente: [http://upload.wikimedia.org/wikipedia/commons/7/75/Internet1.jpg](http://upload.wikimedia.org/wikipedia/commons/7/75/Internet1.jpg) Licencia Creative Commons
+- 1-34- Internet1- Fuente: http://upload-wikimedia-org/wikipedia/commons/7/75/Internet1-jpg Licencia Creative Commons
 
  
 

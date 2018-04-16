@@ -17,7 +17,7 @@ La página de inicio la podemos configurar de dos formas diferentes:
 
 ![](img/pagina_de_inicio_firefox_2.jpg)
 
-Fig 2.18. Página de inicio 2. Captura de pantalla.
+ 2.18. Página de inicio 2. Captura de pantalla.
 
  
 

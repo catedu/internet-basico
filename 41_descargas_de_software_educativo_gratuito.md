@@ -4,7 +4,7 @@
 
 ![](img/1328101811_Download.png)
 
-Fig. 5.24. 1328101811_Download. Fuente: [http://commons.wikimedia.org/wiki/File:1328101811_Download.png](http://commons.wikimedia.org/wiki/File:1328101811_Download.png) CC
+- 5-24- 1328101811_Download- Fuente: http://commons-wikimedia-org/wiki/File:1328101811_Download-png CC
 
 Existen muchas páginas web desde las cuales nos podemos descargar programas educativos de carácter gratuito. Cuando lo hagamos debemos asegurarnos de su gratuidad y qué implica, porque podemos estar bajando programas con diferentes características:
 

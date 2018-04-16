@@ -51,7 +51,7 @@ Para utilizar esta aplicación puedes seguir las explicaciones del siguiente man
 
  
 
-## parasabermas
+## Para Saber Más
 
 Otros sitios muy populares para alojar y compartir documentos son:
 

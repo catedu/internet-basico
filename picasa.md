@@ -12,9 +12,9 @@ Para acceder a Picasa pincha en: [http://picasa.google.com/](http://picasa.goog
 
 ![](img/picasa.jpg)
 
-Fig 4.29. Picasa. Captura de pantalla.
+ 4.29. Picasa. Captura de pantalla.
 
-## ParaSaberMas
+## Para Saber Más
 
 Si te interesa conocer el funcionamiento de Picasa visualiza el siguiente videotutorial.
 

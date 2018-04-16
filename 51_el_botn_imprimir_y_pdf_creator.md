@@ -11,7 +11,7 @@ Imagina que estás navegando en una web. Por ejemplo, vamos a ir al CATEDU.
 
 ![](img/CATEDU.jpg)
 
-Fig 2.56. Imprimir. Captura de pantalla.
+ 2.56. Imprimir. Captura de pantalla.
 
  
 
@@ -22,7 +22,7 @@ Si pinchamos en Imprimir (Ctrl+P) podremos bien imprimirla en formato papel como
 
 ![](img/imprimir1.jpg)
 
-Fig 2.57. Imprimir 2. Captura de pantalla.
+ 2.57. Imprimir 2. Captura de pantalla.
 
 <br/>Al darle al botón de imprimir nos aparece la siguiente pantalla donde podemos darle el título al pdf que estamos generando.
 
@@ -36,7 +36,7 @@ Posteriormente hacemos clic en guardar y seleccionamos la ubicación del archivo
 
 ![](img/imprimir4.jpg)
 
-Fig 2.58. Imprimir 3. Captura de pantalla.
+ 2.58. Imprimir 3. Captura de pantalla.
 
 <br/>Al abrir el pdf tenemos el contenido de la página principal del Catedu. Puedes comprobar que algún color de marcos se pierde. Esto sólo ocurre con las páginas web.
 
@@ -45,7 +45,7 @@ Fig 2.58. Imprimir 3. Captura de pantalla.
 
 ![](img/imprimir5.jpg)
 
-Fig 2.59. Imprimir 4. Captura de pantalla.
+ 2.59. Imprimir 4. Captura de pantalla.
 
  
 

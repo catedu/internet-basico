@@ -10,7 +10,7 @@
 
 ![](img/5750581683_3ab6951923.jpg)
 
-Fig. 1.33.  Fiesta_Tacos.ashx%3Fw%3D380 internet-speed. Fuente: [http://www.flickr.com/photos/62935829@N02/5750581683/](http://www.flickr.com/photos/62935829@N02/5750581683/) Licencia Creative Commons
+- 1-33-  Fiesta_Tacos-ashx%3Fw%3D380 internet-speed- Fuente: http://www-flickr-com/photos/62935829@N02/5750581683/ Licencia Creative Commons
 
 **¿Podríamos decir que Internet es gratis? **La respuesta es rotundamente** NO**. Que el acceso a Internet sea gratuito no implica ni mucho menos que el uso de Internet lo sea. Cuando estamos conectados a Internet debemos pagar el uso que hacemos de la línea telefónica, según el contrato que establecemos con la compañía, del mismo modo que pagamos por hablar. De hecho, son muchos los estudios que muestran que nuestras tarifas son de las más altas de Europa.
 
@@ -18,7 +18,7 @@ En España disponemos de varios tipos de Tarifa plana y su coste depende funda
 
 Normalmente, todos los proveedores nos permiten contratar sus servicios en sus tiendas, de forma telefónica o a través de internet. La instalación del router en nuestro hogar suele ser sencilla si se siguen las instrucciones del fabricante y del proveedor de Internet, pero en caso necesario, los técnicos de las compañías nos asesoran o incluso se encargan de ella. Del mismo modo, los servicios técnicos nos sirven de referencia y ayuda cuando nos surge cualquier problema.
 
-## parasabermas
+## Para Saber Más
 
 ¿Mi conexión a Internet me da la velocidad que tengo contratada? **Test de velocidad**:
 

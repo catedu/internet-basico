@@ -27,7 +27,7 @@ Las direcciones de correo electrónico responden siempre a una misma estructura,
 
 ![](img/correo-electronico-azul-boton-circulo.png)
 
-Fig 1.4. Correo electrónico azul. Botón círculo.
+ 1.4. Correo electrónico azul. Botón círculo.
 
  
 

@@ -6,7 +6,7 @@ Aunque el acceso a esta herramienta se realiza normalmente a través del propio 
 
 ![](img/FAVORITOS1.jpg)
 
-Fig 2.29. Favoritos. Captura de pantalla.
+ 2.29. Favoritos. Captura de pantalla.
 
  
 
@@ -15,7 +15,7 @@ Al seleccionar esta opción nos saldrá la pantalla.
 
 ![](img/favoritos2.jpg)
 
-Fig 2.30. Favoritos 2. Captura de pantalla.
+ 2.30. Favoritos 2. Captura de pantalla.
 
 Aquí seleccionamos la opción Todos los archivos y carpetas  y nos saldrá otra pantalla en la que pondremos el nombre de la carpeta, en este caso Favoritos.
 
@@ -26,7 +26,7 @@ Al hacerlo salen los siguientes resultados:
 
 ![](img/favoritos3.jpg)
 
-Fig 2.31. Favoritos 3. Captura de pantalla.
+ 2.31. Favoritos 3. Captura de pantalla.
 
  
 
@@ -48,7 +48,7 @@ Como ya hemos comentado, aunque **Favoritos** es una subcarpeta de la carpeta **
 
 ![](img/favoritos_explorer.jpg)
 
-Fig 2.32. Favoritos 4. Captura de pantalla.
+ 2.32. Favoritos 4. Captura de pantalla.
 
  
 
@@ -63,7 +63,7 @@ Esta acción solo hay que llevarla a cabo cuando se prepara el sistema para empe
 
 ![](img/agregar_a_favorito_explorer.jpg)
 
-Fig 2.33. Favoritos 5. Captura de pantalla.
+ 2.33. Favoritos 5. Captura de pantalla.
 
  
 

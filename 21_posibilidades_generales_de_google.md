@@ -8,7 +8,7 @@ La página principal de este buscador es extremadamente sencilla y clara. Su asp
 
 ![](img/google.jpg)
 
-Fig 4.7. Google. Captura de pantalla.
+ 4.7. Google. Captura de pantalla.
 
  
 

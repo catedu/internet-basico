@@ -12,9 +12,9 @@ Lo podemos utilizar pinchando en: [http://translate.google.es/?hl=en](http://tr
 
 ![](img/traductor_de_google.jpg)
 
-Fig 4.21. Traductor de Google. Captura de pantalla.
+ 4.21. Traductor de Google. Captura de pantalla.
 
-## ParaSaberMas
+## Para Saber Más
 
 Podemos ver el siguiente videotutorial para conocer el funcionamiento del traductor de Google.
 

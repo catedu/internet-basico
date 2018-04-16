@@ -13,7 +13,7 @@
 
 ![](img/marcadores6.jpg)
 
-Fig 2.46. Marcadores. Captura de pantalla.
+ 2.46. Marcadores. Captura de pantalla.
 
  
 
@@ -26,9 +26,9 @@ Seleccionando Organizar podemos añadir carpetas o páginas a marcadores.
 
 ![](img/marcadores7.jpg)
 
-Fig 2.47. Marcadores 2. Captura de pantalla.
+ 2.47. Marcadores 2. Captura de pantalla.
 
-## ParaSaberMas
+## Para Saber Más
 
 Puedes sincronizar el listado de favoritos / marcadores en diferentes ordenadores. Para conocer cómo realizarlo consulta la siguiente página: 
 

@@ -10,9 +10,9 @@ Podemos acceder a Google Calendar pinchando en: [https://accounts.google.com/](
 
 ![](img/google_calendar.jpg)
 
-Fig 4.26. Google Calendar. Captura de pantalla.
+ 4.26. Google Calendar. Captura de pantalla.
 
-## ParaSaberMas
+## Para Saber Más
 
 Para conocer el funcionamiento de Google Calendar visualiza el siguiente videotutorial.
 

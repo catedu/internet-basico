@@ -8,7 +8,7 @@ Podemos **descargar** Internet Explorer desde [http://windows.microsoft.com/en-
 
 ![](img/explorer_icono.jpg)
 
-Fig 2.7. Logo Internet Explorer. 
+ 2.7. Logo Internet Explorer. 
 
  
 

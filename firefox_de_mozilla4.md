@@ -10,7 +10,7 @@ Para acceder al Historial tenemos dos opciones:
 
 ![](img/historial_firefox.jpg)
 
-Fig 2.48. Historial. Captura de pantalla.
+ 2.48. Historial. Captura de pantalla.
 
  
 
@@ -21,7 +21,7 @@ Fig 2.48. Historial. Captura de pantalla.
 
 ![](img/firefox_historial.jpg)
 
-Fig 2.49. Historial 2. Captura de pantalla.
+ 2.49. Historial 2. Captura de pantalla.
 
 Desde cualquiera de las dos opciones podremos:
 
@@ -37,7 +37,7 @@ Si seleccionamos **limpiar el historial reciente**, nos aparecerá la siguiente 
 
 ![](img/borrar_historial.jpg)
 
-Fig. 2.50. Historial 3. Captura de pantalla.
+- 2-50- Historial 3- Captura de pantalla-
 
  
 

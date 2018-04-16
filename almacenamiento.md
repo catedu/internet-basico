@@ -4,7 +4,7 @@
 
 ![](img/2137737248_318e717653_o_flickr.jpg)
 
-Fig. 1.42. Working Together Teamwork Puzzle Concept. Autor: Scott Maxwell Fuente: [http://www.flickr.com/photos/lumaxart/2137737248/](http://www.flickr.com/photos/lumaxart/2137737248/) Licencia Creative Commons
+- 1-42- Working Together Teamwork Puzzle Concept- Autor: Scott Maxwell Fuente: http://www-flickr-com/photos/lumaxart/2137737248/ Licencia Creative Commons
 
  
 

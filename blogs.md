@@ -6,15 +6,15 @@
 
 ![](img/Blog_1_wikipedia.jpg)
 
-Fig. 1.40. Blog. Fuente: [http://upload.wikimedia.org/wikipedia/commons/4/42/Blog_(1).jpg](http://upload.wikimedia.org/wikipedia/commons/4/42/Blog_(1).jpg) Licencia Creative Commons
+- 1-40- Blog- Fuente: http://upload-wikimedia-org/wikipedia/commons/4/42/Blog_(1-jpg Licencia Creative Commons
 
-## importante
+## Importante
 
 El blog como elemento importante de internet y herramienta destacada en la Web 2.0, va a tener un papel muy importante en este curso, por lo que es conveniente que conozcamos a fondo sus características. Para ello, lee la información que aparece en el menú completo sobre blogs de este enlace:
 
 [http://www.ite.educacion.es/formacion/materiales/155/cd/modulo_1_Iniciacionblog/blogs.html](http://www.ite.educacion.es/formacion/materiales/155/cd/modulo_1_Iniciacionblog/blogs.html)
 
-## parasabermas
+## Para Saber Más
 
 **Los blogs se gestionan**, en general, **online** desde las plataformas que los alojan. En ellas hay gestores de edición adaptados que hacen que crear y modificar artículos sea **tan sencillo como manejar** un programa de edición de texto (por ejemplo **Word**).
 

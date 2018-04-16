@@ -16,7 +16,7 @@ Como verás a continuación el proceso de la **captura de imágenes** **desde la
 
 ![](img/heraldo_de_aragon1.jpg)
 
-Fig 4.38. Heraldo de Aragón. Captura de pantalla.
+ 4.38. Heraldo de Aragón. Captura de pantalla.
 
  
 
@@ -35,7 +35,7 @@ Para capturar la imagen, basta con seleccionar la opción **Guardar imagen como.
 
 ![](img/guardar_imagen.jpg)
 
-Fig 4.39. Guardar imagen. Captura de pantalla.
+ 4.39. Guardar imagen. Captura de pantalla.
 
  
 

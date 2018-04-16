@@ -42,5 +42,5 @@ Si estamos interesados en conocer más complementos de Internet Explorer, los po
 
 ![](img/complementos_explorer.jpg)
 
-Fig 2.55. Complementos Internet Explorer. Captura de pantalla.
+ 2.55. Complementos Internet Explorer. Captura de pantalla.
 

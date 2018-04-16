@@ -10,5 +10,5 @@ Vamos a conocer como **mostrar u ocultar las barras** en los tres navegadores qu
 
 ![](img/mostrar.jpg)
 
-Fig 2.22. Close up of eye. Autor: Lourie Pieterse. http://commons.wikimedia.org.  Creative Commons Attribution-Share Alike 3.0 Unported.
+ 2.22. Close up of eye. Autor: Lourie Pieterse. http://commons.wikimedia.org.  Creative Commons Attribution-Share Alike 3.0 Unported.
 

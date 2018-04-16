@@ -12,5 +12,5 @@ Para acceder a blogger debéis pinchar en: [https://accounts.google.com/](https
 
 ![](img/Blogger.jpg)
 
-Fig 4.25. Blogger. Captura de pantalla.
+ 4.25. Blogger. Captura de pantalla.
 

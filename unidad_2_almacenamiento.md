@@ -4,7 +4,7 @@
 
 ![](img/220px-USB_Flash_Drive_and_Card_Reader.jpg)
 
-Fig. 6.5. USB Flash Drive and Card Reader. Fuente: [http://commons.wikimedia.org/wiki/File:USB_Flash_Drive_and_Card_Reader.jpg](http://commons.wikimedia.org/wiki/File:USB_Flash_Drive_and_Card_Reader.jpg) CC
+- 6-5- USB Flash Drive and Card Reader- Fuente: http://commons-wikimedia-org/wiki/File:USB_Flash_Drive_and_Card_Reader-jpg CC
 
  
 
@@ -28,7 +28,7 @@ Hay otros **portales** que se dedican específicamente al almacenamiento y nos o
 
 A continuación vamos a conocer má a fondo dos de los más populares: Dropbox y Google Drive.
 
-## parasabermas
+## Para Saber Más
 
 Box y Dropbox ofrecen servicios muy similares, si quieres consultar una comparativa donde se explican las diferencias entre ellos antes de decidirte por abrir una cuenta en uno u otro, consulta la siguiente dirección:
 

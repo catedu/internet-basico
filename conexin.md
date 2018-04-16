@@ -1,12 +1,8 @@
 
 # Conexión
 
+![1-21- Cable de red- Ethernet_RJ45_connector_p1160054- Fuente: http://upload-wikimedia-org/wikipedia/commons/d/d7/Ethernet_RJ45_connector_p1160054-jpg](img/Ethernet_RJ45_connector_p1160054.jpg)
 
-![](img/Ethernet_RJ45_connector_p1160054.jpg)
-
-Fig. 1.21. Cable de red. Ethernet_RJ45_connector_p1160054. Fuente: [http://upload.wikimedia.org/wikipedia/commons/d/d7/Ethernet_RJ45_connector_p1160054.jpg](http://upload.wikimedia.org/wikipedia/commons/d/d7/Ethernet_RJ45_connector_p1160054.jpg)
-
- 
 
 **La comunicación entre nuestro ordenador e Internet necesita transportarse a través de algún medio físico**. Normalmente es a través de la línea telefónica pero en la actualidad la variedad es más amplia: cable, teléfono móvil, satélite, red eléctrica.... Algunas de estas están ya en marcha, otras se están empezando a comercializar y otras son solo proyectos.
 
@@ -35,7 +31,6 @@ Vamos ahora a explicar los tipos de conexión:
 - **Otro tipo de conexiones:** Otro tipo de conexiones son, por ejemplo, la conexión vía satélite, muy utilizada en centros rurales donde a las compañías no les es rentable la instalación de las líneas ADSL ni RDSI. La conexión vía satélite necesita una antena parabólica y un MODEM específico para satélite. Otro tipo de conexión pero que no está todavía en su fase comercial es la conexión a través de la red eléctrica. Este tipo de conexión es muy novedosa y presenta como gran ventaja el poder utilizar la red eléctrica que está presente en todos los lugares. En España, empresas como Endesa e Iberdrola están realizando pruebas con este nuevo sistema de conexión.
 
 
-![](img/Wifi.png)
-
-                          Fig. 1.22 Wifi. Fuente: [http://upload.wikimedia.org/wikipedia/commons/9/94/Wifi.png](http://upload.wikimedia.org/wikipedia/commons/9/94/Wifi.png) Licencia Creative Commons
+![1-22 Wifi- Fuente: http://upload-wikimedia-org/wikipedia/commons/9/94/Wifi-png Licencia Creative Commons](img/Wifi.png)
+                         
 

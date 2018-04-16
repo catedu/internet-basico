@@ -10,7 +10,7 @@ La utilización de este menú es la siguiente: supongamos que la página que est
 
 ![](img/marcadores_firefox.jpg)
 
-Fig 2.37. Marcadores. Captura de pantalla.
+ 2.37. Marcadores. Captura de pantalla.
 
  
 
@@ -19,7 +19,7 @@ Fig 2.37. Marcadores. Captura de pantalla.
 
 ![](img/marcadores_firefox2.jpg)
 
-Fig 2.38. Marcadores 2. Captura de pantalla.
+ 2.38. Marcadores 2. Captura de pantalla.
 
  
 
@@ -32,7 +32,7 @@ Por defecto aparecerá en la carpeta marcadores. Pero también se pueden crear s
 
 ![](img/marcadores1.jpg)
 
-Fig 2.39. Marcadores 3. Captura de pantalla.
+ 2.39. Marcadores 3. Captura de pantalla.
 
  
 
@@ -43,7 +43,7 @@ Entonces tendremos la posibilidad de crear subcarpetas con nombres. En este caso
 
 ![](img/marcadores3.jpg)
 
-Fig 2.40. Marcadores 4. Captura de pantalla.
+ 2.40. Marcadores 4. Captura de pantalla.
 
  
 
@@ -56,7 +56,7 @@ Una vez están creadas todas las carpetas con sus respectivos marcadores podremo
 
 ![](img/marcadores5.jpg)
 
-Fig 2.41. Marcadores 5. Captura de pantalla.
+ 2.41. Marcadores 5. Captura de pantalla.
 
  
 

@@ -8,7 +8,7 @@ Resultan muy interesantes los blogs que aparecen en la portada del portal del IN
 
 ![](img/infefblog.JPG)
 
-Fig. 5.6. Blog INTEF. Captura de pantalla
+- 5-6- Blog INTEF- Captura de pantalla
 
  
 

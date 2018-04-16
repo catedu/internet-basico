@@ -10,5 +10,5 @@ Puedes acceder a Google Sites pinchando en: [https://accounts.google.com](https
 
 ![](img/googlesites.jpg)
 
-Fig 4.28. Google Sites. Captura de pantalla.
+ 4.28. Google Sites. Captura de pantalla.
 

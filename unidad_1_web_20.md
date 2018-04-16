@@ -6,7 +6,7 @@
 
 ![](img/c984d3ebf903c4a4e002781954e7df64.jpg)
 
-Fig. 6.2. Feel the power of web 2.0. Autor: William xsp. Fuente: [http://williamxsp.deviantart.com/art/Fell-The-Power-Of-Web-2-0-142604496](http://williamxsp.deviantart.com/art/Fell-The-Power-Of-Web-2-0-142604496) CC
+- 6-2- Feel the power of web 2-0- Autor: William xsp- Fuente: http://williamxsp-deviantart-com/art/Fell-The-Power-Of-Web-2-0-142604496 CC
 
  
 
@@ -17,13 +17,13 @@ La [Web 2.0](http://es.wikipedia.org/wiki/Web_2.0) o Web Social  engloba un gra
 
 ![](img/5508535595_2f14784ae2_o.jpg)
 
-Fig. 6.2. ¿Qué es la web 2.0? Nube de etiquetas. Autor: Guillermo Gómez. Fuente: [http://www.flickr.com/photos/cometaysinembargo/5508535595/](http://www.flickr.com/photos/cometaysinembargo/5508535595/) CC
+- 6-2- ¿Qué es la web 2-0? Nube de etiquetas- Autor: Guillermo Gómez- Fuente: http://www-flickr-com/photos/cometaysinembargo/5508535595/ CC
 
  
 
 El uso que se hacía de Internet anteriormente (**Web 1.0**) estaba **orientado más a la búsqueda de información y consumo de contenidos ya elaborados  y cerrados**. Con la aparición de determinadas herramientas web se ha pasado a elaborar el conocimiento y los contenidos (de calidad) de forma colectiva basándose en las **4 C: comunicarse, compartir, colaborar y confiar**. Ante la necesidad de evidenciar este cambio, surge en 2004 el concepto Web 2.0. y desde entonces, estas dinámicas y las herramientas que lo sustentan no han hecho más que multiplicarse y evolucionar, y ya se habla de [Web 3.0](http://es.wikipedia.org/wiki/Web_3.0) (¡e incluso [Web 4.0](http://www.slideshare.net/jessikitaaaa/qu-es-la-web-30-y-40-12143743)!).
 
-## importante
+## Importante
 
 *** Concepto de Web 2.0:** [http://www.ite.educacion.es/formacion/materiales/155/cd/modulo_1_Iniciacionblog/concepto_de_web_20.html](http://www.ite.educacion.es/formacion/materiales/155/cd/modulo_1_Iniciacionblog/concepto_de_web_20.html)
 

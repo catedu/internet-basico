@@ -8,5 +8,5 @@ En la unidad anterior ya has tenido ocasión de utilizar el navegador. No obstan
 
  
 
-Fig 2.11. Ventana del navegador. Captura de pantalla.
+ 2.11. Ventana del navegador. Captura de pantalla.
 

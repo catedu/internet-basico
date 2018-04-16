@@ -8,7 +8,7 @@ La sociedad actual es la **sociedad de la información y la comunicación**. Por
 
 ![](img/4355757753_8148723472_o.png)
 
- Fig. 7.13. Marketing-with-social-networking-sites. Autor: Shopseal team. Fuente: [http://www.flickr.com/photos/shopseal/4355757753/](http://www.flickr.com/photos/shopseal/4355757753/) CC
+ 7-13- Marketing-with-social-networking-sites- Autor: Shopseal team- Fuente: http://www-flickr-com/photos/shopseal/4355757753/ CC
 
  
 

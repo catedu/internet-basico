@@ -8,7 +8,7 @@ Tenemos dos opciones para hacerlo:
 
 ![](img/opciones_de_internet_explorer.jpg)
 
-Fig 2.13. Opciones de internet. Captura de pantalla.
+ 2.13. Opciones de internet. Captura de pantalla.
 
  
 
@@ -17,7 +17,7 @@ Fig 2.13. Opciones de internet. Captura de pantalla.
 
 ![](img/opciones_de_explorer_2.jpg)
 
-Fig 2.14. Opciones de internet 2. Captura de pantalla.
+ 2.14. Opciones de internet 2. Captura de pantalla.
 
  
 
@@ -26,7 +26,7 @@ En cualquiera de los dos casos anteriores se nos abrirá la siguiente ventana.
 
 ![](img/opciones_de_internet_3.jpg)
 
-Fig 2.15. Opciones de internet 3. Captura de pantalla.
+ 2.15. Opciones de internet 3. Captura de pantalla.
 
  
 
@@ -35,7 +35,7 @@ Nos fijamos en la primera parte de la ventana, que aparece bajo el título "Pág
 
 ![](img/pagina_de_inicio.1.jpg)
 
-Fig 2.16. Página de inicio. Captura de pantalla.
+ 2.16. Página de inicio. Captura de pantalla.
 
  
 

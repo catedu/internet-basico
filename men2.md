@@ -13,14 +13,14 @@ Y además de los recursos clasificados por áreas, destacar el blog [FacilyTIC](
 
 ![](img/facilyTIC.JPG)
 
-Fig. 5.9. facilyTIC. Captura de pantalla.
+- 5-9- facilyTIC- Captura de pantalla-
 
  Otro apartado importante del menú son los **SERVICIOS**. El CATEDU ofrece a los centros y profesores de Aragón una enorme variedad de servicios TIC para llevar a cabo la integración de las TIC en sus aulas. Entre ellos podemos encontrar: creadores web, aulas virtuales, alojamiento,  actividades en el aula y aplicaciones.
 
 
 ![](img/servicios_catedu.JPG)
 
-Fig. 5.10. Servicios CATEDU. Captura de pantalla.
+- 5-10- Servicios CATEDU- Captura de pantalla-
 
 Para utilizarlos hay que darse de alta en el CATEDU (rellenando un formulario) y solicitar el servicio que necesitemos para nuestra práctica docente.
 
@@ -35,9 +35,9 @@ Finalmente, destacar el apartado de **FORMACIÓN PROFESORADO**, desde el que se 
 
 ![](img/aularagon.JPG)
 
-Fig. 5.11. Aularagon. Captura de pantalla.
+- 5-11- Aularagon- Captura de pantalla-
 
-## parasabermas
+## Para Saber Más
 
 En la [plataforma Aularagón ](http://www.aularagon.org/index.asp)se alojan muchísimos cursos de formación del profesorado. Desde el acceso a [cursos libres ](http://www.aularagon.org/asignaturas.asp)podemos consultar muchos de ellos.
 

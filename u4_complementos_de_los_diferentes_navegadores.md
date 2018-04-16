@@ -6,5 +6,5 @@ En esta unidad vamos a ver diferentes **complementos** que se pueden instalar en
 
 ![](img/100206_cr_internet_04_011.jpg)
 
-Fig 2.54. Complementos. 
+ 2.54. Complementos. 
 

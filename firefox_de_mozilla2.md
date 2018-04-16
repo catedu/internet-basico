@@ -10,7 +10,7 @@ Para mostrar y ocultar las barras de herramientas en Firefox tendremos dos opcio
 
 ![](img/ocultar_firefox.jpg)
 
-Fig 2.25. Barra de herramientas. Captura de pantalla.
+ 2.25. Barra de herramientas. Captura de pantalla.
 
 2. Si **no tenemos activa** la barra de menús: Pincharemos en el botón de **firefox** situado arriba a la izquierda y seleccionaremos **opciones**. Desde aquí activaremos o desactivaremos las barras que queramos pinchando en el nombre.
 
@@ -19,7 +19,7 @@ Fig 2.25. Barra de herramientas. Captura de pantalla.
 
 ![](img/pagina_de_inicio_firefox_2.jpg)
 
-Fig 2.26. Barra de herramientas 2. Captura de pantalla.
+ 2.26. Barra de herramientas 2. Captura de pantalla.
 
 ## Reflexión
 

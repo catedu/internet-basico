@@ -4,7 +4,7 @@
 
 ![](img/Representacion_de_un_globo_wikipedia.jpg)
 
-Fig. 1.43. Representacion_de_un_globo wikipedia. Fuente: [http://es.m.wikipedia.org/wiki/Archivo:Representacion_de_un_globo.jpg](http://es.m.wikipedia.org/wiki/Archivo:Representacion_de_un_globo.jpg) Licencia Creative Commons
+- 1-43- Representacion_de_un_globo wikipedia- Fuente: http://es-m-wikipedia-org/wiki/Archivo:Representacion_de_un_globo-jpg Licencia Creative Commons
 
  
 

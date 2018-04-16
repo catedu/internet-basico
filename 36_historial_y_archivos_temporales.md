@@ -8,7 +8,7 @@ El historial es la grabación secuencial de todas las páginas web que consultam
 
 ![](img/consulta_borrar.jpg)
 
-Fig 2.33. Historial. Captura de pantalla.
+ 2.33. Historial. Captura de pantalla.
 
  
 

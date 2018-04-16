@@ -8,5 +8,5 @@ Un buen ejemplo de motor de búsqueda es Google. En la próxima unidad veremos c
 
 ![](img/google.jpg)
 
-Fig 4.4. Google. Captura de pantalla.
+ 4.4. Google. Captura de pantalla.
 

@@ -45,7 +45,7 @@ Sabido esto, la siguiente pregunta es inevitable: ¿Pueden estas páginas ocupar
 
 ![](img/opciones_de_internet_3.jpg)
 
-Fig 2.35. Historial 2. Captura de pantalla.
+ 2.35. Historial 2. Captura de pantalla.
 
  
 
@@ -56,7 +56,7 @@ Si le damos a la pestaña de **configuración** del **historial de exploración*
 
 ![](img/historial_2.jpg)
 
-Fig 2.36. Historial 3. Captura de pantalla.
+ 2.36. Historial 3. Captura de pantalla.
 
  
 

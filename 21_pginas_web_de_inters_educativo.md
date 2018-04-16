@@ -4,7 +4,7 @@
 
 ![](img/Internet1.jpg)
 
-Fig. 5. 19. Internet1. Fuente: [http://en.wikipedia.org/wiki/File:Internet1.jpg](http://en.wikipedia.org/wiki/File:Internet1.jpg) CC
+- 5- 19- Internet1- Fuente: http://en-wikipedia-org/wiki/File:Internet1-jpg CC
 
 Cuando hablamos de páginas web de interés educativo, queremos aclarar, que tal y como hemos dicho hasta el momento, **Internet nos ofrece infinidad de posibilidades pedagógicas a través de los diferentes tipos de contenidos que pone a nuestro alcance** (vídeos, periódicos, imágenes, sonidos, libros, opiniones, redes sociales, etc.). De modo, que el interés de esos contenidos dependerá del uso que hagamos de ellos y de cómo se ajusten a nuestros objetivos didácticos en cada momento, por tanto, muchos contenidos y páginas web pueden tener interés y uso didáctico, independientemente de que aparezcan o no en un portal educativo o en una web diseñada con esa intención.
 
@@ -22,7 +22,7 @@ Las webs propuestas a continuación, son sólo una muestra de lo que podemos enc
 
 * [AreaTablet](http://areatablet.wordpress.com/): Una web con muchísimos recursos organizados primero por etapas, y dentro de ellas por áreas. Además destacan sus secciones sobre: PDI, web 2.0 y tablets. Realizada por Javier Prado (Asesor TIC en Zaragoza).
 
-## importante
+## Importante
 
 Hay muchos sitios web que ofrecen materiales educativos. En general, todos los relacionados con editoriales, centros de profesores y recursos educativos, fundaciones (como la de Telefónica Educared), etc.
 
