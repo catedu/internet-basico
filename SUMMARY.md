@@ -3,8 +3,8 @@
 * [Introducción](README.md)
 
 ____
-### MÓDULO 1: CONCEPTOS BÁSICOS DE INTERNET | MÓDULO 1: CONCEPTOS BÁSICOS DE INTERNET 
-* [MÓDULO 1: CONCEPTOS BÁSICOS DE INTERNET](index0.md)
+### 1. CONCEPTOS BÁSICOS DE INTERNET 
+* [CONCEPTOS BÁSICOS DE INTERNET](index0.md)
 * [Contenidos](contenidos.md)
 	* [UNIDAD 1: QUÉ ES INTERNET Y CÓMO FUNCIONA](unidad_1_qu_es_internet_y_cmo_funciona.md)
 		* [1.1. FUNCIONAMIENTO Y ESTRUCTURA DE INTERNET](11_funcionamiento_y_estructura_de_internet.md)
@@ -39,6 +39,8 @@ ____
 		* [3.4. SPAM O CORREO BASURA](34_spam_o_correo_basura.md)
 		* [3.5. OTROS RIESGOS DE INTERNET](35_otros_riesgos_de_internet.md)
 	* [Créditos](crditos.md)
+
+<!--
 ### MÓDULO 2: NAVEGACIÓN BÁSICA | MÓDULO 2: NAVEGACIÓN BÁSICA 
 * [MÓDULO 2: NAVEGACIÓN BÁSICA](index1.md)
 * [Contenidos](contenidos1.md)
@@ -195,4 +197,6 @@ ____
 		* [2.2. REDES SOCIALES "EDUCATIVAS"](22_redes_sociales_educativas.md)
 		* [Edmodo](edmodo.md)
 		* [redAlumnos](redalumnos.md)
-* [Créditos](crditos6.md)
+-->
+
+* [Créditos](crditos.md)
