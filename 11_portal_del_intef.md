@@ -8,7 +8,7 @@ El** Instituto Nacional de Tecnologías de la Educación y Formación del Profe
 
 ![](img/Intef_inicio.jpg)
 
-- 5-2- INTEF (http://www-ite-educacion-es/ Captura de pantalla-
+- 5-2- INTEF (http://www.ite-educacion-es/ Captura de pantalla-
 
  
 

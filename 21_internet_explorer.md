@@ -6,10 +6,7 @@
 Podemos **descargar** Internet Explorer desde [http://windows.microsoft.com/en-us/internet-explorer/download-ie](http://windows.microsoft.com/en-us/internet-explorer/download-ie). Será necesario instalar la versión de Internet Explorer 8 o superior.
 
 
-![](img/explorer_icono.jpg)
-
- 2.7. Logo Internet Explorer. 
-
+![2.7. Logo Internet Explorer](img/explorer_icono.jpg)
  
 
 Podemos visualizar el siguiente **manual: [http://windows.microsoft.com/es-es/windows-8/browse-web-internet-explorer-tutorial](http://windows.microsoft.com/es-es/windows-8/browse-web-internet-explorer-tutorial)**

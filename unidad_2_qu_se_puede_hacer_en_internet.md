@@ -1,12 +1,8 @@
 
 # UNIDAD 2: QUÉ SE PUEDE HACER EN INTERNET
 
+![1-34- Internet1- Fuente: http://upload-wikimedia-org/wikipedia/commons/7/75/Internet1-jpg Licencia Creative Commons](img/Internet1.jpg)
 
-![](img/Internet1.jpg)
-
-- 1-34- Internet1- Fuente: http://upload-wikimedia-org/wikipedia/commons/7/75/Internet1-jpg Licencia Creative Commons
-
- 
 
 En Internet se puede buscar y encontrar, prácticamente, toda la información que uno desea. Pero Internet no solo ofrece **información **sino que pone a nuestra disposición **otro tipo de servicios **muy variados, entre los que destacaremos los siguientes:
 

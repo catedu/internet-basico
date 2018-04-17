@@ -3,12 +3,9 @@
 
 El historial es la grabación secuencial de todas las páginas web que consultamos en la red. Tenemos la opción de consultar o eliminar dicho historial.
 
- 
+![2.33. Historial. Captura de pantalla.](img/consulta_borrar.jpg)
 
-
-![](img/consulta_borrar.jpg)
-
- 2.33. Historial. Captura de pantalla.
+ 
 
  
 

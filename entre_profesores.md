@@ -4,7 +4,7 @@
 
 ![](img/1824234195_e6b913c563_z.jpg)
 
-- 7-12- My social Network on Flickr, Facebook, Twitter and MyblogLog, Autor: Luc Legay- Fuente: http://www-flickr-com/photos/luc/1824234195/ CC
+- 7-12- My social Network on Flickr, Facebook, Twitter and MyblogLog, Autor: Luc Legay- Fuente: http://www.flickr.com/photos/luc/1824234195/ CC
 
  
 

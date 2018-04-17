@@ -6,7 +6,7 @@
 
 ![](img/c984d3ebf903c4a4e002781954e7df64.jpg)
 
-- 6-2- Feel the power of web 2-0- Autor: William xsp- Fuente: http://williamxsp-deviantart-com/art/Fell-The-Power-Of-Web-2-0-142604496 CC
+- 6-2- Feel the power of web 2-0- Autor: William xsp- Fuente: http://williamxsp-deviantart.com/art/Fell-The-Power-Of-Web-2-0-142604496 CC
 
  
 
@@ -17,7 +17,7 @@ La [Web 2.0](http://es.wikipedia.org/wiki/Web_2.0) o Web Social  engloba un gra
 
 ![](img/5508535595_2f14784ae2_o.jpg)
 
-- 6-2- ¿Qué es la web 2-0? Nube de etiquetas- Autor: Guillermo Gómez- Fuente: http://www-flickr-com/photos/cometaysinembargo/5508535595/ CC
+- 6-2- ¿Qué es la web 2-0? Nube de etiquetas- Autor: Guillermo Gómez- Fuente: http://www.flickr.com/photos/cometaysinembargo/5508535595/ CC
 
  
 

@@ -2,16 +2,10 @@
 # Wikis
 
 
-![](img/Representacion_de_un_globo_wikipedia.jpg)
-
-- 1-43- Representacion_de_un_globo wikipedia- Fuente: http://es-m-wikipedia-org/wiki/Archivo:Representacion_de_un_globo-jpg Licencia Creative Commons
-
+![1-43- Representacion_de_un_globo wikipedia- Fuente: http://es-m-wikipedia-org/wiki/Archivo:Representacion_de_un_globo-jpg Licencia Creative Commons](img/Representacion_de_un_globo_wikipedia.jpg)
  
 
 En hawaiano"wiki-wiki" significa rápido. Este concepto hace referencia a páginas cuyo contenido se crea, edita y desarrolla a través de la colaboración de varios usuarios que pueden añadir, cambiar o eliminar información. En este tipo de páginas lo más importante es el contenido, la información, los enlaces a otros conceptos relacionados,... más que la estética, que suele ser sencilla. Además su edición no entraña dificultades y es rápida. La más conocida e importante es [Wikipedia](http://es.wikipedia.org/wiki/Wikipedia:Portada), pero por su fácil edición y su filosofía colaborativa, las wikis son una herramienta muy útil en educación.
-
- 
-
 
 {% youtube %}https//www.youtube.com/watch?v=jIgk8v74IZg{% endyoutube %}
 

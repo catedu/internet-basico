@@ -4,9 +4,9 @@
 En múltiples ocasiones, llega hasta nosotros la dirección de un página web que puede ser de nuestro interés. ¿Qué debemos hacer para que nuestro navegador nos la muestre? Es simple: basta con escribirla dentro de la barra de direcciones. Ésta suele estar colocada en la parte alta de la ventana del navegador, y tiene el siguiente aspecto:
 
 
-![](img/direccion.jpg)
+![2.5. Barra de direcciones. Captura de pantalla.](img/direccion.jpg)
 
- 2.5. Barra de direcciones. Captura de pantalla.
+ 
 
 Para acceder a una página mediante la **barra de direcciones** sólo tenemos que seguir los siguientes pasos:
 

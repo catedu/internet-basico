@@ -5,14 +5,7 @@ El correo electrónico o e-mail es, junto con la Web, uno de los servicios más 
 
 Hay dos formas básicas de acceder al correo electrónico: a través de un programa específico de correo (p. ej: Outlook-Express) o a través del Webmail. A lo largo de este módulo analizaremos, en profundidad, uno de los programas de correo más utilizados "Outlook-Express" así como otros programas de correo (Thunderbird). También analizaremos el correo webmail, el proporcionado por la DGA (educa.aragon.es) y gmail.
 
- 
-
-
-![](Emails.jpg)
-
- 1.1.  Immagine tratta dal sito del Partito Comunista dei Lavoratori della città di bologna (Italia). Autor: PCL-BO. [http://sites.google.com/site/pclbologna/_/rsrc/1295479585796/home/emails.jpg](http://sites.google.com/site/pclbologna/_/rsrc/1295479585796/home/emails.jpg). Creative Commons Attribution ShareAlike 2.5
-
- 
+![1.1.  Immagine tratta dal sito del Partito Comunista dei Lavoratori della città di bologna (Italia). Autor: PCL-BO.Creative Commons Attribution ShareAlike 2.5](img/Emails.jpg)
 
 En esta unidad vamos a desarrollar algunos conceptos básicos que nos ayudarán a comprender el funcionamiento del correo electrónico.
 

@@ -4,7 +4,7 @@
 
 ![](img/3376955681_c76dde3916_o.jpg)
 
-- 7-9 Twitter website screenshot- Autor: Spencer E- Holtaway- Fuente: http://www-flickr-com/photos/spencereholtaway/3376955681/ CC
+- 7-9 Twitter website screenshot- Autor: Spencer E- Holtaway- Fuente: http://www.flickr.com/photos/spencereholtaway/3376955681/ CC
 
  
 

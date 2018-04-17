@@ -4,7 +4,7 @@
 
 ![](img/dia-internet-04.jpg)
 
-- 7-2 Día internet- Redes sociales- Autor: losdelmamo- Fuente: http://www-flickr-com/photos/periodismoucscgeneracion2000/2471457835/ CC
+- 7-2 Día internet- Redes sociales- Autor: losdelmamo- Fuente: http://www.flickr.com/photos/periodismoucscgeneracion2000/2471457835/ CC
 
  
 

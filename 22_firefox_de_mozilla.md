@@ -6,10 +6,7 @@
 Firefox de Mozilla se puede **descargar** desde [http://www.mozilla.org/es-ES/firefox/new/](http://www.mozilla.org/es-ES/firefox/new/)
 
 
-![](img/firefox_icono.jpg)
-
- 2.8. Logo de Mozilla de Firefox.
-
+![2.8. Logo de Mozilla de Firefox](img/firefox_icono.jpg)
  
 
 Podéis consultar el siguiente **manual** de Mozilla Firefox: 

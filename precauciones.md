@@ -2,13 +2,8 @@
 # Precauciones
 
 
-![](img/Ejercito-Antivirus-Wikipedia.png)
+![1-48- Antivirus- Imagen:   Ejército-Antivirus-Wikipedia- Fuente:   http://es-m-wikipedia-org/wiki/Archivo:Ej%C3%A9rcito-Antivirus-Wikipedia-PNG Licencia Creative Commons](img/Ejercito-Antivirus-Wikipedia.png)
 
- 
-
-- 1-48- Antivirus- Imagen:   Ejército-Antivirus-Wikipedia- Fuente:   http://es-m-wikipedia-org/wiki/Archivo:Ej%C3%A9rcito-Antivirus-Wikipedia-PNG Licencia Creative Commons
-
- 
 
 **Para evitar la presencia de virus** en nuestro equipo debemos tomar una serie de **precauciones**:
 

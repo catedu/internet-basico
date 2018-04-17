@@ -11,10 +11,5 @@ Para tener una idea general sobre la seguridad en Internet podéis ver esta inte
 
 Aunque dura algo más de una hora, su contenido y su tono ameno con toques de humor, hace que resulte recomendable su visualizaicón.
 
- 
-
- 
-
-
 {% youtube %}https//www.youtube.com/watch?v=8dBH1ocToFw{% endyoutube %}
 

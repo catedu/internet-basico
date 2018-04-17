@@ -7,7 +7,7 @@ Tal y como deja entrever su nombre, el e-mail es un servicio que permite **envia
 
 En sus orígenes, el correo electrónico en Internet sólo permitía el envío de información textual pero en la actualidad **se pueden enviar** como **datos adjuntos** fotografías, documentos, vídeos, sonidos, etc.
 
-     Alguna de las** ventajas** del correo electrónico son:
+Alguna de las** ventajas** del correo electrónico son:
 
 - La posibilidad de enviar el mismo mensaje a varios destinatarios a la vez.
 - El destinatario no tiene por qué estar conectado en el momento del envío. Los mensajes que recibe son guardados en una especie de buzón donde permanecerán hasta que el destinatario abra y lea su correo.
@@ -17,11 +17,9 @@ En sus orígenes, el correo electrónico en Internet sólo permitía el envío d
      Para que **un usuario** de la red pueda hacer uso de este servicio **debe poseer una dirección de correo electrónica**. Las direcciones de correo electrónico son únicas (es decir, no hay dos direcciones de correo idénticas) pero un mismo usuario puede tener varias direcciones de correo.
 
 
-![](img/Email_icon_crystal.png)
+![1-36- Email_icon_crystal- Fuente: http://upload-wikimedia-org/wikipedia/commons/7/74/Email_icon_crystal-png Licencia Creative Commons](img/Email_icon_crystal.png)
 
-- 1-36- Email_icon_crystal- Fuente: http://upload-wikimedia-org/wikipedia/commons/7/74/Email_icon_crystal-png Licencia Creative Commons
-
-     Hay dos formas básicas de utilizar el correo:
+Hay dos formas básicas de utilizar el correo:
 
 a)      **Mediante el Webmail (correo Web)**: esta forma de usar el correo surgió debido a la limitación que imponen los programas de correo de tener que configurarlos en cada ordenador desde donde se utilicen. Con el Webmail, desde cualquier ordenador que tenga conexión a Internet podemos leer y enviar correos. Además, los principales portales de correo electrónico (gmail, outlook,...) ofrecen cada vez mayor capacidad de almacenamiento, la posibilidad de configurar y sincronizar otras cuentas y servicios y aplicaciones interesantes asociados al mail.
 

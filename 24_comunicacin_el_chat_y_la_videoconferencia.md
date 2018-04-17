@@ -9,18 +9,13 @@ La diferencia con la mensajería instantánea radica en que e**l **Chat** no nec
 
    Los **Chat** han recibido numerosas críticas. El anonimato de los usuarios provoca a veces la desconfianza y confusión de los mismos. Por ello suele ser recomendable entrar en **Chat** profesionales donde quede claro el tema a tratar y la seriedad de los usuarios.
 
-
-![](img/Blog-commentskkkkk_wikipedia.jpg)
-
-- 1-37- Chat- Imagen: Blog-commentskkkkk wikipedia- Fuente: http://commons-wikimedia-org/wiki/File:Blog-commentskkkkk-jpg Licencia Creative Commons-
-
- 
+![1-37- Chat- Imagen: Blog.commentskkkkk wikipedia- Fuente: http://commons-wikimedia-org/wiki/File:Blog.commentskkkkk-jpg Licencia Creative Commons](img/Blog.commentskkkkk_wikipedia.jpg)
 
 Una evolución del chat son la **mensajería por voz y la videoconferencia**.
 
-     Aunque puede parecer un concepto muy claro, **¿qué es la videoconferencia?** La **videoconferencia** es un sistema de comunicación que permite a dos o más personas, localizadas en distintos puntos geográficos, mantener un intercambio de información de forma análoga a como si todos estuviesen hablando alrededor de una mesa.
+Aunque puede parecer un concepto muy claro, **¿qué es la videoconferencia?** La **videoconferencia** es un sistema de comunicación que permite a dos o más personas, localizadas en distintos puntos geográficos, mantener un intercambio de información de forma análoga a como si todos estuviesen hablando alrededor de una mesa.
 
-     Los **componentes necesarios** **para** un equipo de **videoconferencias** son los siguientes:
+Los **componentes necesarios** **para** un equipo de **videoconferencias** son los siguientes:
 
 - Un elemento de transmisión: en estos momentos, con la generalización de la ADSL, las videoconferencias tienen una gran calidad.
 - Tarjetas de vídeo y audio.
@@ -31,7 +26,5 @@ Una evolución del chat son la **mensajería por voz y la videoconferencia**.
 Éstos programas se han ido perfeccionando y han sufrido un gran desarrollo en los últimos años llegando a hacerse muy populares, sobre todo [Skype](https://login.skype.com/login?setlang=es): por sus servicios gratuitos, su sencillo manejo y su utilidad en diferentes ámbitos (permiten acercar personas de una forma rápida, real, personal,...). Sin embargo, Skype no es el único que nos proporciona este tipo de servicios, también podemos utilizar:[ Hangouts](http://www.google.com/intl/es_es/+/learnmore/hangouts/), [Oovoo](http://www.oovoo.com/home.aspx), [Viber](http://www.viber.com/),... Además, todos ellos han desarrollado aplicaciones capaces de dar el mismo servicio desde otros dispositivos como smartphones y tabletas.
 
 
-![](img/skype2.jpg)
-
-- 1-38- Icono Skype- Captura de pantalla
+![1-38- Icono Skype- Captura de pantalla](img/skype2.jpg)
 

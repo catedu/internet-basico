@@ -1,7 +1,7 @@
 
 # Contenidos
 
-UNIDAD 1: VISITANDO LAS PRIMERAS PÁGINAS
+### UNIDAD 1: VISITANDO LAS PRIMERAS PÁGINAS
 
 1.1. Concepto de World Wide Web.
 
@@ -11,9 +11,8 @@ UNIDAD 1: VISITANDO LAS PRIMERAS PÁGINAS
 
 1.4. Presentación de los principales  navegadores: Explorer, Firefox de Mozilla y Google Chrome.
 
- 
 
-UNIDAD 2: PRINCIPALES NAVEGADORES
+### UNIDAD 2: PRINCIPALES NAVEGADORES
 
 2.1. Internet Explorer.
 
@@ -23,49 +22,23 @@ UNIDAD 2: PRINCIPALES NAVEGADORES
 
 2.4. Ventajas y desventajas de los diferentes navegadores.
 
- 
 
-UNIDAD 3: CONFIGURACIÓN Y FUNCIONAMIENTO DE LOS NAVEGADORES
+
+### UNIDAD 3: CONFIGURACIÓN Y FUNCIONAMIENTO DE LOS NAVEGADORES
 
 3.1. La ventana del navegador.
 
 3.2. Determinación de la página de inicio.
 
-Internet Explorer.
-
-Firefox de Mozilla.
-
-Google Chrome.
-
 3.3. La barra de estado.
 
 3.4. Cómo mostrar y ocultar las barras.
 
-Internet Explorer.
-
-Firefox de Mozilla.
-
-Google Chrome.
-
 3.5. Gestión de nuestras páginas favoritas.
 
-Internet Explorer.
+3.6. Historial y archivos temporales.
 
-Firefox de Mozilla.
-
-Google Chrome.
-
-3.6. Historial y archivos temporales
-
-Internet Explorer.
-
-Firefox de Mozilla.
-
-Google Chrome.
-
- 
-
-UNIDAD 4: COMPLEMENTOS DE LOS DIFERENTES NAVEGADORES
+### UNIDAD 4: COMPLEMENTOS DE LOS DIFERENTES NAVEGADORES
 
 4.1. Complementos de Internet Explorer.
 
@@ -73,11 +46,8 @@ UNIDAD 4: COMPLEMENTOS DE LOS DIFERENTES NAVEGADORES
 
 4.3. Complementos de Google Chrome.
 
- 
-
-UNIDAD 5: IMPRESIÓN DEL CONTENIDO DE UNA PÁGINA
+### UNIDAD 5: IMPRESIÓN DEL CONTENIDO DE UNA PÁGINA
 
 5.1. El botón "Imprimir" y PDF Creator.
 
 5.2.  Hacer una imagen de la pantalla.
-

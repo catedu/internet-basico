@@ -4,7 +4,7 @@
 
 ![](img/2613100984_e072b7627b.jpg)
 
-- 5-17- Aplicaciones portables- Autor: Nestor Alonso- Fuente: http://www-flickr-com/photos/nestoralonso/2613100984/ CC
+- 5-17- Aplicaciones portables- Autor: Nestor Alonso- Fuente: http://www.flickr.com/photos/nestoralonso/2613100984/ CC
 
  
 

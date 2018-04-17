@@ -4,11 +4,7 @@
 La barra de estado aparece en el navegador Internet Explorer en la parte baja de la ventana.
 
 
-![](img/barra_de_estado.jpg)
-
- 2.21. Barra de estado. Captura de pantalla.
-
- 
+![2.21. Barra de estado. Captura de pantalla.](img/barra_de_estado.jpg)
 
 En ella se refleja es estado de la descarga de la página solicitada. En la parte de la derecha se indica la ubicación de la información que se nos está mostrando:
 

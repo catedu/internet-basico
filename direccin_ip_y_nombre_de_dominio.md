@@ -73,7 +73,7 @@ La primera palabra del nombre de dominio corresponde siempre al nombre del orden
 
 ![](img/5910411419_b17af89773_b.jpg)
 
-- 1-12- Domain Name Extentions- Autor: Tristan- Fuente: http://www-flickr-com/photos/bloggingbookshelf/5910411419/ Licencia Creative Commons-
+- 1-12- Domain Name Extentions- Autor: Tristan- Fuente: http://www.flickr.com/photos/bloggingbookshelf/5910411419/ Licencia Creative Commons-
 
 
 

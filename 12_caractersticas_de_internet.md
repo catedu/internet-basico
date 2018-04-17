@@ -4,7 +4,7 @@
 Actualmente[^1], un 47 % de la población mundial, utiliza Internet. Esto supone que hay unos 2.700 millones de personas que se conectan a la red y, a través de diferentes dispositivos (ordenadores, tabletas, smartphones, relojes y gafas inteligentes,...), disfrutan de las diferentes actividades que les ofrece. **Las posibilidades de acción que ofrece ahora Internet han ido evolucionando con el tiempo**, hasta disponer de un amplio abanico de posibilidades: publicar y/localizar información, enviar mails, comunicarse vía chats, comercio a través de la red, blogs, redes sociales, formación, etc. Tal es el volumen de actividad de Internet, que cada minuto se suben 700 vídeos, se publican 100.000 tuits y se marcan 34.000 "me gusta" en Facebook.
 
 
-![1-13- Salvad el planeta- Autor: Nestor Alonso- Fuente: http://www-flickr-com/photos/nestoralonso/2612270255/ Licencia Creative Commons](img/2612270255_2aac865c3c.jpg)
+![1-13- Salvad el planeta- Autor: Nestor Alonso- Fuente: http://www.flickr.com/photos/nestoralonso/2612270255/ Licencia Creative Commons](img/2612270255_2aac865c3c.jpg)
 
 [^1]: Septiembre de 2.013.
 

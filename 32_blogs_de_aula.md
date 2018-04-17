@@ -4,7 +4,7 @@
 
 ![](img/8720604364_85c5931a14_z.jpg)
 
-- 5-22- Children at school- Autor: Lucéila Ribeiro- Fuente: http://www-flickr-com/photos/lupuca/8720604364/ CC
+- 5-22- Children at school- Autor: Lucéila Ribeiro- Fuente: http://www.flickr.com/photos/lupuca/8720604364/ CC
 
  
 

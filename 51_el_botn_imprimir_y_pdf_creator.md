@@ -1,17 +1,17 @@
 
 # 5.1. EL BOTÓN "IMPRIMIR" Y PDF CREATOR
 
+Debemos recurrir a la opción Imprimir del menú Archivo tanto para Internet Explorer como Mozilla Firefox. En Google Chrome lo haremos pinchando en el icono ![](img/chrome1.jpg) y seleccionando Imprimir. 
 
-![](img/chrome1.jpg)
 
 Entonces aparece una ventana bastante similar a la ventana de impresión de otros programas, pero con algunas peculiaridades propias. Veamos la utilidad de una de ellas, como puede ser la opción de hacer documentos en pdf.
 
 Imagina que estás navegando en una web. Por ejemplo, vamos a ir al CATEDU.
 
 
-![](img/CATEDU.jpg)
+![2.56. Imprimir. Captura de pantalla.](img/CATEDU.jpg)
 
- 2.56. Imprimir. Captura de pantalla.
+ 
 
  
 
@@ -20,11 +20,10 @@ Si pinchamos en Imprimir (Ctrl+P) podremos bien imprimirla en formato papel como
  
 
 
-![](img/imprimir1.jpg)
+![2.57. Imprimir 2. Captura de pantalla.](img/imprimir1.jpg)
 
- 2.57. Imprimir 2. Captura de pantalla.
-
-<br/>Al darle al botón de imprimir nos aparece la siguiente pantalla donde podemos darle el título al pdf que estamos generando.
+ 
+Al darle al botón de imprimir nos aparece la siguiente pantalla donde podemos darle el título al pdf que estamos generando.
 
 Posteriormente hacemos clic en guardar y seleccionamos la ubicación del archivo pdf. Recomendamos seleccionar el escritorio para un mejor acceso. 
 
@@ -34,18 +33,17 @@ Posteriormente hacemos clic en guardar y seleccionamos la ubicación del archivo
  
 
 
-![](img/imprimir4.jpg)
+![2.58. Imprimir 3. Captura de pantalla.](img/imprimir4.jpg)
 
- 2.58. Imprimir 3. Captura de pantalla.
-
-<br/>Al abrir el pdf tenemos el contenido de la página principal del Catedu. Puedes comprobar que algún color de marcos se pierde. Esto sólo ocurre con las páginas web.
+ 
+Al abrir el pdf tenemos el contenido de la página principal del Catedu. Puedes comprobar que algún color de marcos se pierde. Esto sólo ocurre con las páginas web.
 
  
 
 
-![](img/imprimir5.jpg)
+![2.59. Imprimir 4. Captura de pantalla.](img/imprimir5.jpg)
 
- 2.59. Imprimir 4. Captura de pantalla.
+ 
 
  
 

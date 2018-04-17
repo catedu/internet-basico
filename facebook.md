@@ -4,7 +4,7 @@
 
 ![](img/3376955055_b0aba92518_o.jpg)
 
-- 7-7-  facebook website screenshot- Autor: Spencer E- Holtaway- Fuente: http://www-flickr-com/photos/spencereholtaway/3376955055/ CC
+- 7-7-  facebook website screenshot- Autor: Spencer E- Holtaway- Fuente: http://www.flickr.com/photos/spencereholtaway/3376955055/ CC
 
  
 

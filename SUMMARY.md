@@ -2,6 +2,7 @@
 
 * [Introducción](README.md)
 
+<!--
 ____
 ### 1. CONCEPTOS BÁSICOS DE INTERNET 
 * [CONCEPTOS BÁSICOS DE INTERNET](index0.md)
@@ -38,11 +39,10 @@ ____
 		* [3.3. PROGRAMAS PARA RASTREAR Y PROTEGER TU PC](33_programas_para_rastrear_y_proteger_tu_pc.md)
 		* [3.4. SPAM O CORREO BASURA](34_spam_o_correo_basura.md)
 		* [3.5. OTROS RIESGOS DE INTERNET](35_otros_riesgos_de_internet.md)
-	* [Créditos](crditos.md)
 
-<!--
-### MÓDULO 2: NAVEGACIÓN BÁSICA | MÓDULO 2: NAVEGACIÓN BÁSICA 
-* [MÓDULO 2: NAVEGACIÓN BÁSICA](index1.md)
+
+### 2. NAVEGACIÓN BÁSICA 
+* [NAVEGACIÓN BÁSICA](index1.md)
 * [Contenidos](contenidos1.md)
 	* [U1. VISITANDO LAS PRIMERAS PÁGINAS](u1_visitando_las_primeras_pginas.md)
 		* [1.1 CONCEPTO DE WORLD WIDE WEB](11_concepto_de_world_wide_web.md)
@@ -57,22 +57,22 @@ ____
 	* [U3. CONFIGURACIÓN Y FUNCIONAMIENTO DE LOS NAVEGADORES](u3_configuracin_y_funcionamiento_de_los_navegadores.md)
 		* [3.1. LA VENTANA DEL NAVEGADOR](31_la_ventana_del_navegador.md)
 		* [3.2. DETERMINACIÓN DE LA PÁGINA DE INICIO](32_determinacin_de_la_pgina_de_inicio.md)
-		* [Internet Explorer](internet_explorer.md)
-		* [Firefox de Mozilla](firefox_de_mozilla.md)
-		* [Google Chrome](google_chrome.md)
+			* [Internet Explorer](internet_explorer.md)
+			* [Firefox de Mozilla](firefox_de_mozilla.md)
+			* [Google Chrome](google_chrome.md)
 		* [3.3. LA BARRA DE ESTADO](33_la_barra_de_estado.md)
 		* [3.4. CÓMO MOSTRAR Y OCULTAR LAS BARRAS](34_cmo_mostrar_y_ocultar_las_barras.md)
-		* [Internet Explorer](internet_explorer2.md)
-		* [Firefox de Mozilla](firefox_de_mozilla2.md)
-		* [Google Chrome](google_chrome2.md)
+			* [Internet Explorer](internet_explorer2.md)
+			* [Firefox de Mozilla](firefox_de_mozilla2.md)
+			* [Google Chrome](google_chrome2.md)
 		* [3.5. GESTIÓN DE NUESTRAS PÁGINAS FAVORITAS](35_gestin_de_nuestras_pginas_favoritas.md)
-		* [Internet explorer](internet_explorer3.md)
-		* [Firefox de Mozilla](firefox_de_mozilla3.md)
-		* [Google Chrome](google_chrome3.md)
+			* [Internet explorer](internet_explorer3.md)
+			* [Firefox de Mozilla](firefox_de_mozilla3.md)
+			* [Google Chrome](google_chrome3.md)
 		* [3.6. HISTORIAL Y ARCHIVOS TEMPORALES](36_historial_y_archivos_temporales.md)
-		* [Internet Explorer](internet_explorer4.md)
-		* [Firefox de Mozilla](firefox_de_mozilla4.md)
-		* [Google Chrome](google_chrome4.md)
+			* [Internet Explorer](internet_explorer4.md)
+			* [Firefox de Mozilla](firefox_de_mozilla4.md)
+			* [Google Chrome](google_chrome4.md)
 	* [U4. COMPLEMENTOS DE LOS DIFERENTES NAVEGADORES](u4_complementos_de_los_diferentes_navegadores.md)
 		* [4.1. COMPLEMENTOS DE INTERNET EXPLORER](41_complementos_de_internet_explorer.md)
 		* [4.2. COMPLEMENTOS DE FIREFOX DE MOZILLA](42_complementos_de_firefox_de_mozilla.md)
@@ -81,8 +81,11 @@ ____
 		* [5.1. EL BOTÓN "IMPRIMIR" Y PDF CREATOR](51_el_botn_imprimir_y_pdf_creator.md)
 		* [5.2. HACER UNA IMAGEN DE LA PANTALLA](52_hacer_una_imagen_de_la_pantalla.md)
 * [Créditos](crditos1.md)
-### MÓDULO 3: EL CORREO ELECTRÓNICO | M3: El correo electrónico 
-* [MÓDULO 3: EL CORREO ELECTRÓNICO](index2.md)
+-->
+
+
+### 3. El correo electrónico 
+* [EL CORREO ELECTRÓNICO](index2.md)
 * [Contenidos](contenidos2.md)
 	* [U1. CONCEPTOS BÁSICOS DEL CORREO ELECTRÓNICO](u1_conceptos_bsicos_del_correo_electrnico.md)
 		* [1.1 FUNCIONAMIENTO DEL CORREO ELECTRÓNICO](11_funcionamiento_del_correo_electrnico.md)
@@ -107,6 +110,8 @@ ____
 		* [4.2. WINZIP](42_winzip.md)
 		* [4.3. 7ZIP](43_7zip.md)
 * [Créditos](crditos2.md)
+
+<!--
 ### MÓDULO 4: BÚSQUEDA DE INFORMACIÓN | MÓDULO 4: BÚSQUEDA DE INFORMACIÓN 
 * [MÓDULO 4: BÚSQUEDA DE INFORMACIÓN](index3.md)
 * [Contenidos](contenidos3.md)

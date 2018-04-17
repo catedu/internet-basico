@@ -7,63 +7,25 @@ Ten en cuenta este pequeño truco porque tendrás que utilizarlo a lo largo del 
 
 Impresión sólo dándole al botón Imp. Pant.
 
-
-![](img/imprimir7.jpg)
-
- 2.60. Imagen. Captura de pantalla.
-
- 
+![2.60. Imagen. Captura de pantalla.](img/imprimir7.jpg)
 
 Como puedes comprobar sale todo lo que tienes en ese momento en la pantalla. Si sólo quieres la ventana activa debes presionar a la vez el botón ALT + Imp. Pant. Te quedará la siguiente imagen.
 
- 
+![2.61. Imagen 2. Captura de pantalla.](img/imprimir8.jpg)
 
 
-![](img/imprimir8.jpg)
-
- 2.61. Imagen 2. Captura de pantalla.
-
- 
-
-## Pregunta de Elección Múltiple
 
 ### Pregunta
 
 ¿Cómo se hace una imagen de la pantalla?
 
-#### Respuestas
+%accordion%Solución%accordion%
 
+Tienes dos opciones:
 
-<label class="sr-av" for="i116_5">[Opción 1](#answer-116_5)</label><input id="i116_5" name="option116_2" onclick="$exe.getFeedback(0,3,'116_2','multi')" type="radio"/>
+* Pulsando en el botón Imp Pant del teclado y pegándolo en un documento word.
+* Pulsando además de Imp Pant la tecla Alt, si únicamente queremos hacer una imagen de la ventana que tenemos abierta.
 
+%/accordion%
 
-Pulsando en el botón Imp Pant del teclado y pegándolo en un documento word.
-
- 
-
-
-<label class="sr-av" for="i116_260">[Opción 2](#answer-116_260)</label><input id="i116_260" name="option116_2" onclick="$exe.getFeedback(1,3,'116_2','multi')" type="radio"/>
-
-
-Pulsando además de Imp Pant la tecla Alt, si únicamente queremos hacer una imagen de la ventana que tenemos abierta.
-
-
-<label class="sr-av" for="i116_263">[Opción 3](#answer-116_263)</label><input id="i116_263" name="option116_2" onclick="$exe.getFeedback(2,3,'116_2','multi')" type="radio"/>
-
-
-Pulsando la tecla de Tab e Imp Pant.
-
-#### Retroalimentación
-
-¡Perfecto!
-
-¡Bien hecho!
-
-No, está opción no es correcta...
-
-#### Solución
-
-1. [Incorrecto](#answer-116_5) ([Retroalimentación](#sa0b116_2))
-1. [Opción correcta](#answer-116_260) ([Retroalimentación](#sa1b116_2))
-1. [Incorrecto](#answer-116_263) ([Retroalimentación](#sa2b116_2))
 

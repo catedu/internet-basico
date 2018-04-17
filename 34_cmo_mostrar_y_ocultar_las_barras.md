@@ -5,10 +5,7 @@ A la hora de decidir qué **barras** queremos que nos muestre el **navegador**, 
 
 Vamos a conocer como **mostrar u ocultar las barras** en los tres navegadores que estamos estudiando.
 
- 
+![2.22. Close up of eye. Autor: Lourie Pieterse. http://commons.wikimedia.org.  Creative Commons Attribution-Share Alike 3.0 Unported.](img/mostrar.jpg)
 
-
-![](img/mostrar.jpg)
-
- 2.22. Close up of eye. Autor: Lourie Pieterse. http://commons.wikimedia.org.  Creative Commons Attribution-Share Alike 3.0 Unported.
+ 
 

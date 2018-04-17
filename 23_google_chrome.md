@@ -6,9 +6,9 @@
 Podemos **descargar** Google Chrome desde [https://www.google.com/intl/es/chrome/browser/?hl=es](https://www.google.com/intl/es/chrome/browser/?hl=es)
 
 
-![](img/chrome-logo.png)
+![2.9. Logo de Google Chrome](img/chrome-logo.png)
 
- 2.9. Logo de Google Chrome.
+
 
  
 

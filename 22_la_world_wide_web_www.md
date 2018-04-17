@@ -8,7 +8,5 @@ Uno de los servicios más populares y conocido por los usuarios de Internet es l
 La idea de base de la WWW consiste en la existencia de servidores que proporcionen información a los clientes de forma similar a como se visualizan las páginas de un libro, y que los elementos de esas páginas den acceso a otras, no estando éstas necesariamente alojadas en el mismo servidor.
 
 
-![](img/World_wide_web_wiki.jpg)
-
-- 1-35- World_wide_web wiki- Fuente:http://upload-wikimedia-org/wikipedia/commons/2/2e/World_wide_web-jpg Licencia Creative Commons
+![1-35- World_wide_web wiki- Fuente:http://upload-wikimedia-org/wikipedia/commons/2/2e/World_wide_web-jpg Licencia Creative Commons](img/World_wide_web_wiki.jpg)
 

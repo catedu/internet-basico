@@ -2,7 +2,7 @@
 # UNIDAD 1: QUÉ ES INTERNET Y CÓMO FUNCIONA
 
 
-![Fig 11 El mundo en tus manos Autor: coqi garces Fuente: http://www-flickr-com/photos/ivogarcev/3921206837/ Licencia Creative Commons](img/3921206837_109d3116d7_o.jpg)
+![Fig 11 El mundo en tus manos Autor: coqi garces Fuente: http://www.flickr.com/photos/ivogarcev/3921206837/ Licencia Creative Commons](img/3921206837_109d3116d7_o.jpg)
 
 
 

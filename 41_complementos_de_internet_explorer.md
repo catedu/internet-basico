@@ -3,9 +3,7 @@
 
 Los complementos que vamos a analizar de Internet Explorer son: traductor de Bing, búsqueda visual de Wikipedia y RAE (buscar en el diccionario).
 
- 
-
-Bing Translator
+#### Bing Translator
 
 Nos permite traducir textos y páginas web en línea. 
 
@@ -13,9 +11,8 @@ Podemos descargarlo desde la siguiente web pinchando en agregar a Internet Explo
 
 [http://www.iegallery.com/Addons/Details/1568](http://www.iegallery.com/Addons/Details/1568)
 
- 
 
-Búsqueda visual de wikipedia
+#### Búsqueda visual de wikipedia
 
 Nos ofrece sugerencias de búsquedas visuales y respuestas instantáneas de la Wikipedia.
 
@@ -24,8 +21,7 @@ Podemos descargarlo desde la siguiente página web, pinchando en agregar a Inter
 [http://www.iegallery.com/Addons/Details/1685](http://www.iegallery.com/Addons/Details/1685)
 
  
-
-RAE: buscar en el diccionario
+#### RAE: buscar en el diccionario
 
 Es un buscador de términos en el diccionario de la Real Academia Española. 
 
@@ -37,10 +33,8 @@ Si estamos interesados en conocer más complementos de Internet Explorer, los po
 
 [http://www.iegallery.com/PinnedSites](http://www.iegallery.com/PinnedSites)
 
- 
 
+![2.55. Complementos Internet Explorer. Captura de pantalla.](img/complementos_explorer.jpg)
 
-![](img/complementos_explorer.jpg)
-
- 2.55. Complementos Internet Explorer. Captura de pantalla.
+ 
 

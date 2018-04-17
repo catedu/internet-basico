@@ -6,11 +6,4 @@ Vamos a empezar a navegar pon nuestras primeras páginas de internet. Por ello, 
 Comenzamos nuestro viaje...
 
 
-![](img/barco.jpg)
-
- Fig 2.1. Malta 13 dhajsa. Autor: jkb. http://commons.wikimedia.org. GNU Free Documentation License.
-
- 
-
- 
-
+![2.1. Malta 13 dhajsa. Autor: jkb. http://commons.wikimedia.org GNU Free Documentation License.](img/barco.jpg)

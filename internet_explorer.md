@@ -5,37 +5,22 @@ Tenemos dos opciones para hacerlo:
 
 1. Si está **activa** la barra de menú: Desde el menú Herramientas de la barra seleccionamos la última opción **Opciones de Internet**.
 
-
-![](img/opciones_de_internet_explorer.jpg)
-
- 2.13. Opciones de internet. Captura de pantalla.
-
- 
+	![2.13. Opciones de internet. Captura de pantalla.](img/opciones_de_internet_explorer.jpg)
 
 2. Si **no está activa** la barra de menú: Accederemos pinchando en el icono que está a la derecha de la estrella según se muestra en la imagen.
 
-
-![](img/opciones_de_explorer_2.jpg)
-
- 2.14. Opciones de internet 2. Captura de pantalla.
-
- 
+	![2.14. Opciones de internet 2. Captura de pantalla.](img/opciones_de_explorer_2.jpg)
 
 En cualquiera de los dos casos anteriores se nos abrirá la siguiente ventana.
 
-
-![](img/opciones_de_internet_3.jpg)
-
- 2.15. Opciones de internet 3. Captura de pantalla.
-
- 
+![2.15. Opciones de internet 3. Captura de pantalla.](img/opciones_de_internet_3.jpg)
 
 Nos fijamos en la primera parte de la ventana, que aparece bajo el título "Página de inicio".
 
 
-![](img/pagina_de_inicio.1.jpg)
+![2.16. Página de inicio. Captura de pantalla.](img/pagina_de_inicio.1.jpg)
 
- 2.16. Página de inicio. Captura de pantalla.
+ 
 
  
 
@@ -51,7 +36,11 @@ En el espacio en blanco donde indica "Dirección " es donde se escribe la direcc
 
 ## Reflexión
 
-<script type="text/javascript">var feedback51_9text = "Mostrar retroalimentación";</script><input class="feedbackbutton" name="toggle-feedback-51_9" onclick="$exe.toggleFeedback(this,true);return false" type="button" value="Mostrar retroalimentación"/>
+¿Qué página web resulta óptima para ponerla como inicio? 
 
-### Retroalimentación
+%accordion%Solución%accordion%
+
+Depende del tipo de navegación que se haga. Por ejemplo, si la mayor parte de las veces que nos conectamos lo hacemos para buscar información, podemos poner como página de inicio la de un buscador. Si lo hacemos buscando recursos educativos, podemos poner la página del programa Ramón y Cajal. Si se trata del ordenador de uso común en un centro educativo,  podemos poner como página de inicio la del propio centro. Pero si el uso de Internet es variado, y cada conexión tiene un fin diferente (buscar información, ocio, buscar recursos educativos, ver las noticias,...) puede resultar práctico usar una página en blanco y escribir la dirección deseada cada vez que se hace la conexión.
+
+%/accordion%
 

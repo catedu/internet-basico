@@ -4,7 +4,7 @@
 
 ![](img/6240955859_507ca933a6.jpg)
 
-- 5-21- Blog icon- Autor: photologue_np- Fuente: http://www-flickr-com/photos/44313045@N08/6240955859/ CC
+- 5-21- Blog icon- Autor: photologue_np- Fuente: http://www.flickr.com/photos/44313045@N08/6240955859/ CC
 
 En ellos los docentes cuentan experiencias, dan opiniones, comparten sus conocimientos sobre determinadas aplicaciones online y offline, se generan debates, se intercambian ideas a través de los comentarios, reunen materiales que ponen a disposición de los demás, etc. A veces lo hacen a nivel personal y otras a nivel de centro o de otra institución con caracter educativo. Veamos algunos ejemplos:
 

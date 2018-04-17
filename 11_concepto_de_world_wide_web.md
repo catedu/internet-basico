@@ -8,7 +8,10 @@ Programas capaces de interpretar el lenguaje HTML hay muchos en el mercado. Los 
 
 ![](img/explorer_icono.jpg)
 
- 2.2, 2.3 y 2.4. Iconos de los navegadores. Captura de pantalla.
+![](img/firefox_icono.jpg)
+
+![2.2, 2.3 y 2.4. Iconos de los navegadores](img/chrome-logo.png)
+
 
 Haciendo un **doble clic con el botón izquierdo** del ratón sobre este icono, arrancaremos el programa: ¡Tenemos la **WWW** a nuestra disposición!
 

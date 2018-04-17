@@ -5,14 +5,11 @@ Al igual que ocurre con el correo postal, para poder recibir y enviar correo ele
 
 Las cuentas de correo son asignadas por nuestro proveedor de correo electrónico y constan de varios datos, los cuales son distintos para cada usuario:
 
- 
-
- 
-<td valign="top" width="260">**Nombre de usuario o Login**</td>
-<td valign="top" width="260">**Contraseña**</td>
-<td valign="top" width="260">**Dirección de correo**</td>
-<td valign="top" width="260">**Nombre del servidor SMTP**</td>
-<td valign="top" width="260"><h4>   Nombre del servidor POP</h4></td>
+**Nombre de usuario o Login**
+**Contraseña**
+**Dirección de correo**
+**Nombre del servidor SMTP**
+**Nombre del servidor POP**
 
  
 
@@ -25,9 +22,9 @@ Las direcciones de correo electrónico responden siempre a una misma estructura,
 **nombre_usuario@nombre_del_servidor**
 
 
-![](img/correo-electronico-azul-boton-circulo.png)
+![1.4. Correo electrónico azul. Botón círculo.](img/correo-electronico-azul-boton-circulo.png)
 
- 1.4. Correo electrónico azul. Botón círculo.
+ 
 
  
 
@@ -43,20 +40,52 @@ Por último los datos del nombre del servidor de correo entrante (POP) y de corr
 
 Nosotros tenemos a nuestra disposición la posibilidad de solicitar cuentas de correo a la DGA (son las cuentas de correo tipo **nombre@educa.aragon.es**). Cuando solicitamos estas cuentas de correo los datos que se nos proporcionan son, por poner un ejemplo, los siguientes:
 
- 
-<td valign="top" width="285"><h6 style="text-align: center;">Correo DGA</h6></td>
-<td width="285">CENTRO: CEIP Ramón y Cajal</td>
-<td width="285">LOCALIDAD: Cuarte de Huerva</td>
-<td width="285">PROFESOR/A: Tutor Internet</td>
-<td width="285">E-MAIL: tutorinternet@educa.aragon.es</td>
-<td width="285">PASSWORD: aaa333</td>
-<td width="285">POP: pop3educa.aragon.es SMTP: smtpeduca.aragon.es</td>
+<table border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top" width="285">
+<h6 style="text-align: center;"><span style="font-size: medium;">Correo DGA</span></h6>
+</td>
+</tr>
+<tr>
+<td width="285">
+<p>CENTRO: CEIP Ramón y Cajal</p>
+</td>
+</tr>
+<tr>
+<td width="285">
+<p>LOCALIDAD: Cuarte de Huerva</p>
+</td>
+</tr>
+<tr>
+<td width="285">
+<p>PROFESOR/A: Tutor Internet</p>
+</td>
+</tr>
+<tr>
+<td width="285">
+<p>E-MAIL: tutorinternet@educa.aragon.es</p>
+</td>
+</tr>
+<tr>
+<td width="285">
+<p>PASSWORD: aaa333</p>
+</td>
+</tr>
+<tr>
+<td width="285">
+<p>POP: pop3educa.aragon.es</p>
+<p>&nbsp;SMTP: smtpeduca.aragon.es</p>
+</td>
+</tr>
+</tbody>
+</table>
 
 Como puedes ver una misma persona puede solicitar ambas cuentas; además, los datos que nos suministran para configurar nuestras cuentas no son los mismos. Fíjate bien pues necesitarás tener esto claro cuando veamos  esto más adelante.
 
 Analicemos los datos recibidos de una de estas cuentas:
 
-La dirección de correo (e-mail) es **tutorinternet****@educa.aragon.es**  (en este caso el nombre de usuario o nombre de la cuenta asignado es **tutorinternet** y el dominio del servidor de correo es  **educa.aragon.es**)
+La dirección de correo (e-mail) es **tutorinternet@educa.aragon.es**  (en este caso el nombre de usuario o nombre de la cuenta asignado es **tutorinternet** y el dominio del servidor de correo es  **educa.aragon.es**)
 
 Nombre de usuario es tutorinternet y la contraseña es aaa333.
 

@@ -4,7 +4,7 @@
 
 ![](img/2613103726_25f247a3a4.jpg)
 
-- 6-1- Web 2-0 y educación- Autor: Néstor Alonso- Fuente: http://www-flickr-com/photos/nestoralonso/2613103726/ CC
+- 6-1- Web 2-0 y educación- Autor: Néstor Alonso- Fuente: http://www.flickr.com/photos/nestoralonso/2613103726/ CC
 
  
 
