@@ -5,11 +5,7 @@ Winrar es un programa cuya función es comprimir y descomprimir carpetas y archi
 
 Este programa tiene multitud de opciones y posibilidades, sin embargo, de cara a la utilidad del curso vamos a explicar el manejo básico de este software basándome en el uso del botón derecho, pero debemos saber que hay el programa tiene muchas más opciones.
 
- 
-
- 
-
-**Compresión<br/>**
+### Compresión
 
  
 
@@ -22,9 +18,9 @@ Con la **opción  "Anadir a (nombre del archivo o carpeta que queremos comprimi
  
 
 
-![](img/winrar1.jpg)
+![1.38. Añadir archivo. Captura de pantalla.](img/winrar1.jpg)
 
- 1.38. Añadir archivo. Captura de pantalla.
+ 
 
  
 
@@ -43,11 +39,10 @@ Con la opición **"Añadir al archivo..." **nos sale el cuadro de diálogo que a
 - Establecer una **contraseña**. Para ello hacemos clic en la pestaña "Avanzado". Dentro de ella picamos sobre el botón "Establezca la contraseña".
 
 
-![](img/winrar2.jpg)
+![1.39. Nombre y parámetros. Captura de pantalla.](img/winrar2.jpg)
 
- 1.39. Nombre y parámetros. Captura de pantalla.
-
- **Descompresión**
+ 
+### Descompresión
 
  
 
@@ -58,9 +53,9 @@ Winrar puede **descomprimir varios tipos de archivos**, además de los .rar, sie
 Los archivos **.rar** se representan por el  siguiente icono.
 
 
-![](img/winrar3.jpg)
+![1.40. Icono. Captura de pantalla.](img/winrar3.jpg)
 
-1.40. Icono. Captura de pantalla.
+
 
  
 
@@ -76,16 +71,15 @@ Para descomprimir nos situamos sobre el icono del archivo que queramos descompri
 - Con la opción **"Extraer aquí" **descomprimiremos el archivo en el lugar en el que estamos, con el mismo nombre que el archivo que el documento .rar, pero sin incluir dentro de ninguna carpeta, es decir, **suelto.**
 
 - Con la opción **"Extraer ficheros..." **podremos determinar:
-
-- El **lugar en el que queremos descomprimir **los archivos. Para ello nos iremos a la zona señalada por un círculo amarillo. **Si picamos en las cruces se desplegarán las subcarpetas contenidas**. Así iremos siguiendo la ruta adecuada hasta llegar a la carpeta en la que queramos guardar el archivo.
-- La **acción **que debe realizar el programa al descomprimir los archivos.
+	- El **lugar en el que queremos descomprimir **los archivos. Para ello nos iremos a la zona señalada por un círculo amarillo. **Si picamos en las cruces se desplegarán las subcarpetas contenidas**. Así iremos siguiendo la ruta adecuada hasta llegar a la carpeta en la que queramos guardar el archivo.
+	- La **acción **que debe realizar el programa al descomprimir los archivos.
 
  
 
 
-![](img/winrar5.jpg)
+![1.42. Extracción de ficheros. Captura de pantalla.](img/winrar5.jpg)
 
- 1.42. Extracción de ficheros. Captura de pantalla.
+ 
 
 Para descargar WinRar pincha en: [http://www.winrar.es/descargas](http://www.winrar.es/descargas)
 

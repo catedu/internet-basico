@@ -2,9 +2,7 @@
 # 1.5. PRINCIPALES REDES SOCIALES
 
 
-![](img/Redes-sociales-tacticas_wikipedia.jpg)
-
-. 7.6. Redes-sociales-tacticas. Fuente: [http://commons.wikimedia.org/wiki/File:Redes-sociales-tacticas.jpg](http://commons.wikimedia.org/wiki/File:Redes-sociales-tacticas.jpg) CC
+![7.6. Redes-sociales-tacticas. Fuente: http://commons.wikimedia.org/wiki/File:Redes-sociales-tacticas.jpg CC](img/Redes-sociales-tacticas_wikipedia.jpg)
 
  
 

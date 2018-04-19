@@ -8,7 +8,7 @@ Por tanto, desde este programa podemos consultar, contestar e-mails, etc., sin n
 Existen multitud de gestores de correo electrónico. En esta unidad vamos a trabajar con Outllok Express y Thunderbird.
 
 
-![](img/correo18.jpg)
+![1.26. Iconos. Captura de pantalla.](img/correo18.jpg)
 
-1.26. Iconos. Captura de pantalla.
+
 

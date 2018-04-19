@@ -3,12 +3,8 @@
 
 Los [blogs](http://www.ite.educacion.es/formacion/materiales/155/cd/modulo_1_Iniciacionblog/qu_es_un_blog.html) se han consolidado como una importante herramienta informativa, comunicativa y también didáctica. En este momento, **su uso está muy extendido en el ámbito educativo** y resulta muy variado: podemos encontrar blogs de aula, blogs elaborados solo por profesores donde cuentan su parecer sobre algunos temas, blogs que reunen recursos e información para docentes, blogs gestionados por los alumnos, blogs de centros,... y en ocasiones blogs que mezclan varios de estos usos.
 
+![5-20- Blog iconiiiiiiiii- Fuente: http://commons-wikimedia-org/wiki/File:Blog_iconoiiiiiiii-jpg CC](img/Blog_iconoiiiiiiii.jpg)
 
-![](img/Blog_iconoiiiiiiii.jpg)
-
-- 5-20- Blog iconiiiiiiiii- Fuente: http://commons-wikimedia-org/wiki/File:Blog_iconoiiiiiiii-jpg CC
-
- 
 
 Los blogs en educación (edublogs) son una herramienta muy versátil y ofrecen muchas **ventajas y aplicaciones**:
 
@@ -20,7 +16,7 @@ Los blogs en educación (edublogs) son una herramienta muy versátil y ofrecen m
 - Son un soporte adecuado para compartir contenidos digitales educativos (web 2.0): vídeos, presentaciones, posters, podcasts, etc.
 - Es una forma fantástica de abrirse a lo que ocurre fuera del aula y mostrar lo que ocurre en su interior (participación de familias y resto de comunidades educativas).
 
-## tarea
+## Tarea
 
 A lo largo del tema hemos ido recomendando y visitando sitios, llegados a este punto, queremos recordar aquello de **"no están todos los que son, pero sí son todos los que están",** es decir, dado que es imposible abarcar todo lo que nos ofrece la red, estamos a citando algunos sitios interesantes y otros muchos se han quedado fuera de esta selección.
 

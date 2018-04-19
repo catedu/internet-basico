@@ -2,15 +2,12 @@
 # Twitter
 
 
-![](img/3376955681_c76dde3916_o.jpg)
-
-- 7-9 Twitter website screenshot- Autor: Spencer E- Holtaway- Fuente: http://www.flickr.com/photos/spencereholtaway/3376955681/ CC
-
+![7-9 Twitter website screenshot- Autor: Spencer E- Holtaway- Fuente: http://www.flickr.com/photos/spencereholtaway/3376955681/ CC](img/3376955681_c76dde3916_o.jpg)
  
 
 Este nombre es un término inglés que se traduce como "gorgojear" o "trinar" y el símbolo de esta plataforma es un pájaro azul.
 
-[Twitter](https://twitter.com/) **es un servicio de microbloggling**, es decir, permite publicar mensajes breves, llamados **tweets, con 140 caracteres como máximo**. Fue creado en 2006 y tenía más de 500 millones de usuarios en el momento de su salida a bolsa en noviembre de 2013.
+[Twitter](https://twitter.com/) **es un servicio de microbloggling**, es decir, permite publicar mensajes breves, llamados **tweets, con 280 caracteres como máximo**. Fue creado en 2006 y tenía más de 500 millones de usuarios en el momento de su salida a bolsa en noviembre de 2013.
 
 **Destaca la vinculación de esta red social a los disositivos móviles**, pues según los estudiios, el 80 % de los ususarios activos de Twitter se conectan a ella, principalmente desde smartphones.
 

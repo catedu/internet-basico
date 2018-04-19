@@ -10,16 +10,16 @@ Podemos descargar Google Earth desde: [http://earth.google.es/intl/en/](http://e
  
 
 
-![](img/google_earth.jpg)
+![4.23. Google Earth. Captura de pantalla.](img/google_earth.jpg)
 
- 4.23. Google Earth. Captura de pantalla.
-
-## Para Saber Más
-
-Para aprender a utilizar Google Earth podéis visualizar el siguiente videotutorial.
-
- 
-
-
-{% youtube %}https//www.youtube.com/watch?v=asloedgdhqI{% endyoutube %}
+ 
+>**tip**
+>## Para Saber Más
+>
+>Para aprender a utilizar Google Earth podéis visualizar el siguiente videotutorial.
+>
+> 
+>
+>
+>{% youtube %}https//www.youtube.com/watch?v=asloedgdhqI{% endyoutube %}
 

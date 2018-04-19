@@ -3,16 +3,9 @@
 
 Del mismo modo que se puede imprimir una página web, **podemos guardar**, en forma de fichero o archivo, todo el contenido de la misma. Veamos cuáles son los pasos a seguir:
 
-1. Iniciamos el navegador y entramos en la página web que nos interese capturar: por ejemplo, vamos a la página de educación del Gobierno de Aragón ([http://www.educaragon.org](http://www.educaragon.org)).
+1. Iniciamos el navegador y entramos en la página web que nos interese capturar: por ejemplo, vamos a la página de educación del Gobierno de Aragón ([http://www.educaragon.org](http://www.educaragon.org)). Una vez se haya cargado toda la página, picamos con el botón derecho del ratón y seleccionamos Guardar como...
 
-Una vez se haya cargado toda la página, picamos con el botón derecho del ratón y seleccionamos Guardar como...
-
- 
-
-
-![](img/guardar_como.jpg)
-
- Fig 4.33. Guardar. Captura de pantalla.
+	![4.33. Guardar. Captura de pantalla.](img/guardar_como.jpg)
 
 2. Entraremos en la ventana Guardar página web. Seleccionamos la carpeta del disco duro C: donde queremos guardar la página.
 
@@ -20,36 +13,15 @@ Habitualmente se suele guardar en una carpeta dentro de la carpeta **Documentos
 
 Para ello basta picar sobre el botón de crear nueva carpeta tal y como aparece en la imagen inferior.
 
- 
+![4.34. Guardar como. Captura de pantalla.](img/guardar_como2.jpg)
 
+Aparecerá una nueva carpeta. Elimina el nombre **Nueva carpeta** y escribe el nombre **Paginasweb.**
 
-![](img/guardar_como2.jpg)
-
- 4.34. Guardar como. Captura de pantalla.
-
- 
-
-     Aparecerá una nueva carpeta. Elimina el nombre **Nueva carpeta** y escribe el nombre **Paginasweb.**
-
- 
-
-
-![](img/nueva_carpeta.jpg)
-
- 4.35. Nueva carpeta. Captura de pantalla.
-
- 
+![4.35. Nueva carpeta. Captura de pantalla.](img/nueva_carpeta.jpg)
 
 Vuelve a seleccionarla y a continuación pulsa el botón **Abrir**. De esta forma, nos situaremos dentro de esa nueva carpeta.
 
- 
-
-
-![](img/carpetapaginaweb.jpg)
-
- 4.36. Carpeta página web. Captura de pantalla.
-
- 
+![4.36. Carpeta página web. Captura de pantalla.](img/carpetapaginaweb.jpg)
 
 La zona donde se muestra el contenido de la carpeta. Evidentemente, como la acabamos de crear está vacía (no tiene ningún archivo).
 
@@ -58,9 +30,9 @@ En la línea Nombre de archivo aparece el nombre del archivo que contendrá nues
  
 
 
-![](img/guardar_como3.jpg)
+![4.37. Guardar página web. Captura de pantalla.](img/guardar_como3.jpg)
 
- 4.37. Guardar página web. Captura de pantalla.
+ 
 
  
 

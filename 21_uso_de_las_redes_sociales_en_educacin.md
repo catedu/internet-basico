@@ -9,7 +9,8 @@ Al mismo tiempo, la integración de las redes sociales en nuestra sociedad, ha i
 
 <iframe frameborder="0" height="356" marginheight="0" marginwidth="0" scrolling="no" src="http://www.slideshare.net/slideshow/embed_code/8053282" style="border-width: 1px 1px 0px; border-style: solid; border-color: #cccccc; width: 539px; height: 425px; margin-right: auto; margin-bottom: 5px; margin-left: auto; display: block;" width="427"></iframe>
 
-## Para Saber Más
-
-["La educación conectada: algo más que conectar alumnos a nuevos dispositivos"](http://blog.educalab.es/intef/2013/10/18/educacion-conectada-algo-mas-que-enchufar-alumnos-a-nuevos-dispositivos/) Interesante reflexión del blog de INTEF.
+>**tip**
+>## Para Saber Más
+>
+>["La educación conectada: algo más que conectar alumnos a nuevos dispositivos"](http://blog.educalab.es/intef/2013/10/18/educacion-conectada-algo-mas-que-enchufar-alumnos-a-nuevos-dispositivos/) Interesante reflexión del blog de INTEF.
 

@@ -14,9 +14,9 @@ Para utilizar el correo de educa.aragon.es hay que entrar en  <a>http://correoe
  
 
 
-![](img/correo1.jpg)
+![1.8. Webmail Aragón. Captura de pantalla.](img/correo1.jpg)
 
- 1.8. Webmail Aragón. Captura de pantalla.
+ 
 
  
 
@@ -25,9 +25,9 @@ Pincharemos en la opción que corresponda a la terminación de nuestra cuenta de
  
 
 
-![](img/correo2.jpg)
+![1.9. Iniciar sesión. Captura de pantalla.](img/correo2.jpg)
 
- 1.9. Iniciar sesión. Captura de pantalla.
+ 
 
 En la primera línea, **Correo electrónico**, deberemos poner la dirección de correo electrónico completa, así si nuestra dirección es nombre@educa.aragon.es, pues deberemos poner todo; en la siguiente línea pondremos nuestra contraseña.
 
@@ -36,11 +36,13 @@ Pulsamos en "Iniciar sesión" y nos aparecerá esta pantalla:
  
 
 
-![](img/correo3.jpg)
-
- 1.10. Nuevo correo. Captura de pantalla.
+![1.10. Nuevo correo. Captura de pantalla.](img/correo3.jpg)
 
  
 
-Como podemos comprobar hemos entrado en la **Bandeja**** de entrada**, donde podremos ver el correo que hemos recibido. Como podemos ver existen varios menús así que vamos a ir visitando los más importantes.<br/><br/>Las operaciones más importantes que podemos llevar a cabo desde la Bandeja de Entrada son las siguientes: enviar correos, leer correos e utilizar categorías y direcciones.
+ 
+
+Como podemos comprobar hemos entrado en la **Bandeja** de entrada**, donde podremos ver el correo que hemos recibido. Como podemos ver existen varios menús así que vamos a ir visitando los más importantes.
+
+Las operaciones más importantes que podemos llevar a cabo desde la Bandeja de Entrada son las siguientes: enviar correos, leer correos e utilizar categorías y direcciones.
 

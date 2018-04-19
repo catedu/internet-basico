@@ -20,9 +20,7 @@ Como hemos visto, la variedad de redes sociales en Internet es enorme y, en ge
 [http://recursostic.educacion.es/observatorio/web/es/internet/web-20/1043-redes-sociales?start=3](http://recursostic.educacion.es/observatorio/web/es/internet/web-20/1043-redes-sociales?start=3)
 
 
-![](img/clasificacion_rrss.JPG)
-
-- 7-5- Clasificación RR-SS- Captura de pantalla-
+![7-5- Clasificación RR-SS- Captura de pantalla](img/clasificacion_rrss.JPG)
 
  
 

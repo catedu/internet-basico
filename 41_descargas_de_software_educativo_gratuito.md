@@ -2,13 +2,11 @@
 # 4.1. DESCARGAS DE SOFTWARE EDUCATIVO GRATUITO
 
 
-![](img/1328101811_Download.png)
-
-- 5-24- 1328101811_Download- Fuente: http://commons-wikimedia-org/wiki/File:1328101811_Download-png CC
+![5-24- 1328101811_Download- Fuente: http://commons-wikimedia-org/wiki/File:1328101811_Download-png CC](img/1328101811_Download.png)
 
 Existen muchas páginas web desde las cuales nos podemos descargar programas educativos de carácter gratuito. Cuando lo hagamos debemos asegurarnos de su gratuidad y qué implica, porque podemos estar bajando programas con diferentes características:
 
-- **Freeware o Gratuito: **Significa que el programa es gratuito y no se cobra nada por la descarga. Una vez descargado, lo podemos instalar en nuestro ordenador y manejarlo sin ninguna limitación.
+- **Freeware o Gratuito:** Significa que el programa es gratuito y no se cobra nada por la descarga. Una vez descargado, lo podemos instalar en nuestro ordenador y manejarlo sin ninguna limitación.
 - **Evaluación:** Este tipo de programas son de descarga gratuito pero dejan de funcionar cuando ha pasado un determinado número de días (generalmente 30). Es una buena opción para probar un programa antes de lanzarnos a comprarlo.
 - **Demo:** Como deja entrever su nombre es una versión que está limitada a un determinado número de usos o a un determinado número de días. Generalmente, tampoco se puede probar todo el programa completo sino solo alguna de sus partes.
 

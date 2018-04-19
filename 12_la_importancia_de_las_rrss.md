@@ -18,22 +18,20 @@ Este vídeo nos explica algunos datos sobre la expansión y uso que se hace de l
 {% youtube %}https//www.youtube.com/watch?v=jCmOhHVwahw{% endyoutube %}
 
  
-
-## Importante
-
-**La importancia de las redes sociales**, radica por tanto en varios aspectos:
-
-- La capacidad para influir, reorganizar y condicionar muchos aspectos de los hábitos y costumbres de las personas, y por tanto, de la sociedad actual.
-
-- La rapidez con la que se han desarrollado y han logrado integrarse en nuestras vidas.
-
-- La inmediatez de comunicación y la facilidad para transmitir contenidos y opiniones, las convierten en un importante instrumento social y les otorga un gran poder de manifestación. Sirva como ejemplo el papel que desempeñaron en movimientos como el 15M o las primaveras árabes.
-
-- La forma en que favorecen el intercambio social y la colaboración entre personas o grupos.
-
-- La funcionalidad y ubicuidad que ofrecen, permiten a sus usuarios multitud de usos y aplicaciones prácticas para diferenes momentos y situaciones.
-
-## Importante
-
-Hay que tener en cuenta que **la expansión de las redes sociales está muy ligada al aumento del uso de dispositivos móviles** como smartphones y tablets que nos permiten conectarnos a Internet (con tecnologías WiFi y 3G o 4G) en cualquier lugar en cualquier momento. 
+>**info**
+>## Importante
+>
+>**La importancia de las redes sociales**, radica por tanto en varios aspectos:
+>
+>- La capacidad para influir, reorganizar y condicionar muchos aspectos de los hábitos y costumbres de las personas, y por tanto, de la sociedad actual.
+>
+>- La rapidez con la que se han desarrollado y han logrado integrarse en nuestras vidas.
+>
+>- La inmediatez de comunicación y la facilidad para transmitir contenidos y opiniones, las convierten en un importante instrumento social y les otorga un gran poder de manifestación. Sirva como ejemplo el papel que desempeñaron en movimientos como el 15M o las primaveras árabes.
+>
+>- La forma en que favorecen el intercambio social y la colaboración entre personas o grupos.
+>
+>- La funcionalidad y ubicuidad que ofrecen, permiten a sus usuarios multitud de usos y aplicaciones prácticas para diferenes momentos y situaciones.
+>
+>Hay que tener en cuenta que **la expansión de las redes sociales está muy ligada al aumento del uso de dispositivos móviles** como smartphones y tablets que nos permiten conectarnos a Internet (con tecnologías WiFi y 3G o 4G) en cualquier lugar en cualquier momento. 
 

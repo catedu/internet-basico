@@ -6,11 +6,8 @@ La sociedad actual es la **sociedad de la información y la comunicación**. Por
 **La escuela y el resto de instituciones educativas**, como elementos sociales que son, han de compartir esta característica y al mismo tiempo, dar respuesta a ella, es decir, **deben** estar en contacto no sólo con los alumnos y familias de la forma en que se ha venido haciendo durante el s. XX, sino **intercambiar información de forma fluida con ellos y el resto de la comunidad educativa a través de nuevas vías que están a su alcance**.
 
 
-![](img/4355757753_8148723472_o.png)
+![7-13- Marketing-with-social-networking-sites- Autor: Shopseal team- Fuente: http://www.flickr.com/photos/shopseal/4355757753/ CC](img/4355757753_8148723472_o.png)
 
- 7-13- Marketing-with-social-networking-sites- Autor: Shopseal team- Fuente: http://www.flickr.com/photos/shopseal/4355757753/ CC
-
- 
 
 Hace unas décadas lo que ocurría en los centros escolares solía tener poca publicidad fuera de ellos, en la última década, todos los centros escolares se han ido adaptando a las nuevas situaciones provocadas por el desarrollo de Internet y han ido abriendose a sus comunidades educativas a través de páginas web (y más adelante blogs) en los que se definían, compartían las actividades que realizaban, informaban de trámites, mostraban cómo se organizaban los recursos y los espacios, etc. En la actualidad, muchas de ellas (quizás de una forma más tímida) están **comenzando** también** a posicionarse en las redes sociales** a través, sobre todo, de las más populares: Facebook y Twitter para informar e informarse de lo que ocurre en su ámbito educativo.
 

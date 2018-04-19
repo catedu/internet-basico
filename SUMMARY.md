@@ -2,7 +2,6 @@
 
 * [Introducción](README.md)
 
-<!--
 ____
 ### 1. CONCEPTOS BÁSICOS DE INTERNET 
 * [CONCEPTOS BÁSICOS DE INTERNET](index0.md)
@@ -80,9 +79,6 @@ ____
 	* [U5. IMPRESIÓN DEL CONTENIDO DE UNA PÁGINA](u5_impresin_del_contenido_de_una_pgina.md)
 		* [5.1. EL BOTÓN "IMPRIMIR" Y PDF CREATOR](51_el_botn_imprimir_y_pdf_creator.md)
 		* [5.2. HACER UNA IMAGEN DE LA PANTALLA](52_hacer_una_imagen_de_la_pantalla.md)
-* [Créditos](crditos1.md)
--->
-
 
 ### 3. El correo electrónico 
 * [EL CORREO ELECTRÓNICO](index2.md)
@@ -109,11 +105,9 @@ ____
 		* [4.1. WINRAR](41_winrar.md)
 		* [4.2. WINZIP](42_winzip.md)
 		* [4.3. 7ZIP](43_7zip.md)
-* [Créditos](crditos2.md)
 
-<!--
-### MÓDULO 4: BÚSQUEDA DE INFORMACIÓN | MÓDULO 4: BÚSQUEDA DE INFORMACIÓN 
-* [MÓDULO 4: BÚSQUEDA DE INFORMACIÓN](index3.md)
+### 4. BÚSQUEDA DE INFORMACIÓN 
+* [BÚSQUEDA DE INFORMACIÓN](index3.md)
 * [Contenidos](contenidos3.md)
 	* [U1. CONCEPTO DE BUSCADOR](u1_concepto_de_buscador.md)
 		* [1.1. LA NECESIDAD DE UN BUSCADOR](11_la_necesidad_de_un_buscador.md)
@@ -143,8 +137,8 @@ ____
 		* [3.1. IMPRIMIR PARTE DE UNA PÁGINA](31_imprimir_parte_de_una_pgina.md)
 		* [3.2. CAPTURAR UNA PÁGINA WEB EN ARCHIVO](32_capturar_una_pgina_web_en_archivo.md)
 		* [3.3. CAPTURA DE IMÁGENES](33_captura_de_imgenes.md)
-* [Créditos](crditos3.md)
-### MÓDULO 5: NAVEGACIÓN EDUCATIVA 
+
+### 5. NAVEGACIÓN EDUCATIVA 
 * [MÓDULO 5: NAVEGACIÓN EDUCATIVA](index4.md)
 * [Contenidos](contenidos4.md)
 	* [UNIDAD 1: PORTALES EDUCATIVOS](unidad_1_portales_educativos.md)
@@ -153,7 +147,6 @@ ____
 		* [Blogs](blogs4.md)
 		* [1.2. PORTAL DEL CATEDU](12_portal_del_catedu.md)
 		* [Menú](men2.md)
-		* [Servicios destacados](servicios_destacados.md)
 		* [1.3. OTROS](13_otros.md)
 	* [UNIDAD 2: PÁGINAS WEB EDUCATIVAS](unidad_2_pginas_web_educativas.md)
 		* [2.1. PÁGINAS WEB DE INTERÉS EDUCATIVO](21_pginas_web_de_inters_educativo.md)
@@ -163,8 +156,9 @@ ____
 		* [3.2. BLOGS DE AULA](32_blogs_de_aula.md)
 	* [UNIDAD 4: SOFTWARE EDUCATIVO](unidad_4_software_educativo.md)
 		* [4.1. DESCARGAS DE SOFTWARE EDUCATIVO GRATUITO](41_descargas_de_software_educativo_gratuito.md)
-* [Créditos](crditos4.md)
-### MÓDULO 6: LA ESCUELA Y LA WEB 2.0 
+
+
+### 6. LA ESCUELA Y LA WEB 2.0 
 * [MÓDULO 6: LA ESCUELA Y LA WEB 2.0](index5.md)
 * [Contenidos](contenidos5.md)
 	* [UNIDAD 1: WEB 2.0](unidad_1_web_20.md)
@@ -181,9 +175,10 @@ ____
 		* [4.1. FOTOS](41_fotos.md)
 		* [4.2. DOCUMENTOS](42_documentos.md)
 		* [4.3. MISCELÁNEA](43_miscelnea.md)
-* [Créditos](crditos5.md)
-### MÓDULO 5: REDES SOCIALES 
-* [MÓDULO 7: REDES SOCIALES](index6.md)
+-->
+
+### 7. REDES SOCIALES 
+* [REDES SOCIALES](index6.md)
 * [Contenidos](contenidos6.md)
 	* [UNIDAD 1: LAS REDES SOCIALES](unidad_1_las_redes_sociales.md)
 		* [1.1. DEFINICIÓN](11_definicin.md)
@@ -202,6 +197,7 @@ ____
 		* [2.2. REDES SOCIALES "EDUCATIVAS"](22_redes_sociales_educativas.md)
 		* [Edmodo](edmodo.md)
 		* [redAlumnos](redalumnos.md)
--->
+
+___
 
 * [Créditos](crditos.md)

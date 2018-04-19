@@ -2,9 +2,7 @@
 # 2.1. DROPBOX
 
 
-![](img/dropbox1.JPG)
-
-.6.6. Dropbox. Captura de pantalla
+![6.6. Dropbox. Captura de pantalla](img/dropbox1.JPG)
 
 [Dropbox](https://www.dropbox.com/) te ofrece un **disco duro virtual** que puedes sincronizar con distintos dispositivos (ordenador, tablet, móvil,...) y con el que puedes acceder a tus contenidos desde cualquier sitio a través de una conexión a Internet.
 

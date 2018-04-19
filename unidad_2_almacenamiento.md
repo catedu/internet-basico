@@ -2,11 +2,8 @@
 # UNIDAD 2: ALMACENAMIENTO
 
 
-![](img/220px-USB_Flash_Drive_and_Card_Reader.jpg)
+![6-5- USB Flash Drive and Card Reader- Fuente: http://commons-wikimedia-org/wiki/File:USB_Flash_Drive_and_Card_Reader-jpg CC](img/220px-USB_Flash_Drive_and_Card_Reader.jpg)
 
-- 6-5- USB Flash Drive and Card Reader- Fuente: http://commons-wikimedia-org/wiki/File:USB_Flash_Drive_and_Card_Reader-jpg CC
-
- 
 
 Los [dispositivos de almacenamiento ](http://es.wikipedia.org/wiki/Dispositivo_de_almacenamiento_de_datos)de datos han evolucionado mucho desde su aparición, sobre todo en dos aspectos: **cada vez tienen mayor capacidad y ocupan menos espacio**. Son dispositivos como discos duros, disquetes, cd, dvd, tarjetas de memoria, pen drives,... que se han hecho imprescindibles en nuestras vidas pues resultan muy útiles ante la necesidad de liberar espacio en nuestros equipos y poder transportar la información de forma cómoda y sencilla de un sitio a otro. Sin embargo, también tienen algunos **inconvenientes**: si se estropean se pierde la información que tenían almacenada, algunos tienen un proceso un tanto costoso para introducir la información (ejem. para introducir los datos en un cd o dvd precisar de una grabadora y programa adecuado), son dispositivos físicos de modo que si no están presentes no podemos compartir los contenidos que tenemos en ellos y contribuyen a extender el mallware de unos equipos a otros.
 
@@ -27,10 +24,4 @@ Hay otros **portales** que se dedican específicamente al almacenamiento y nos o
 - [Dropbox](https://www.dropbox.com/): 2 GB de almacenamiento que se puede ir ampliando, por ejemplo, al invitar a otras personas a utilzar dropbox.
 
 A continuación vamos a conocer má a fondo dos de los más populares: Dropbox y Google Drive.
-
-## Para Saber Más
-
-Box y Dropbox ofrecen servicios muy similares, si quieres consultar una comparativa donde se explican las diferencias entre ellos antes de decidirte por abrir una cuenta en uno u otro, consulta la siguiente dirección:
-
-[http://catedu.es/arablogs/blog.php?id_blog=1145&amp;id_categoria=5994](http://catedu.es/arablogs/blog.php?id_blog=1145&amp;id_categoria=5994)
 

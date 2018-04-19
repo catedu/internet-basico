@@ -6,9 +6,9 @@ La página principal de este buscador es extremadamente sencilla y clara. Su asp
  
 
 
-![](img/google.jpg)
+![4.7. Google. Captura de pantalla.](img/google.jpg)
 
- 4.7. Google. Captura de pantalla.
+ 
 
  
 

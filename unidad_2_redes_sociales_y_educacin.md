@@ -2,9 +2,7 @@
 # UNIDAD 2: REDES SOCIALES Y EDUCACIÓN
 
 
-![](img/4733690493_e846833dbc_o.jpg)
-
-- 7-11- Estos chicos graciosos usando las redes sociales en el aula de informática- Autor: Ángel Abril Ruiz- Fuente: http://www.flickr.com/photos/aabrilru/4733690493/ CC
+![7-11- Estos chicos graciosos usando las redes sociales en el aula de informática- Autor: Ángel Abril Ruiz- Fuente: http://www.flickr.com/photos/aabrilru/4733690493/ CC](img/4733690493_e846833dbc_o.jpg)
 
  
 

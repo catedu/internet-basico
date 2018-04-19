@@ -10,7 +10,7 @@ Para acceder a blogger debéis pinchar en: [https://accounts.google.com/](https
  
 
 
-![](img/Blogger.jpg)
+![4.25. Blogger. Captura de pantalla.](img/Blogger.jpg)
 
- 4.25. Blogger. Captura de pantalla.
+ 
 

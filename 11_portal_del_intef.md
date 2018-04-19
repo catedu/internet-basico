@@ -3,14 +3,8 @@
 
 El** Instituto Nacional de Tecnologías de la Educación y Formación del Profesorado** ( [INTEF](http://www.ite.educacion.es/)) es el organismo dependiente del Ministerio de Educación Cultura y Deporte responsable de la integración de las TIC en las etapas educativas no universitarias.
 
- 
+![5-2- INTEF (http://www.ite-educacion-es/ Captura de pantalla](img/Intef_inicio.jpg)
 
-
-![](img/Intef_inicio.jpg)
-
-- 5-2- INTEF (http://www.ite-educacion-es/ Captura de pantalla-
-
- 
 
 En el portal del INTEF podemos diferenciar varias partes:
 
@@ -31,7 +25,4 @@ La **presentación**: Justo debajo del menú, se explica qué es INTEF y de qui�
 Abajo del todo aparecen las páginas de los programas o **plataformas más importantes de INTEF**: Agrega, Leer.es, eTwinning, banco de imágenes y sonidos, CEDEC, etc.  más adelante veremos algunos de ellos.
 
 
-![](img/paginas_intef.JPG)
-
-- 5-3- Portal INTEF- Captura de pantalla-
-
+![5-3- Portal INTEF- Captura de pantalla](img/paginas_intef.JPG)

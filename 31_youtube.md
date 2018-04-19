@@ -2,9 +2,7 @@
 # 3.1. YOUTUBE
 
 
-![](img/youtube.JPG)
-
- 6-8- Logotipo Youtube- Captura de pantalla-
+![6-8- Logotipo Youtube- Captura de pantalla](img/youtube.JPG)
 
 [Youtube](https://www.youtube.com/?gl=ES) apareció a principios de 2005 y fue adquirido por Google en octubre de 2006 por 1650 millones de dólares. Actualmente, **es el sitio web de alojamiento de vídeos más usado del mundo**. Sus **datos** son espectaculares:
 
@@ -24,9 +22,9 @@ Vemos que la cantidad de vídeos alojados en Youtube es enorme, por eso, en ocas
 
  
 
-Para utilizar Youtube es necesario registrarse o acceder con una cuenta de gmail.  Una vez dentro, es muy sencillo **subir un vídeo** a la plataforma, como se muestra en este[ manual](http://catedu.es/materialesaularagon2013/web20/MANUALES/youtube.pdf):
+Para utilizar Youtube es necesario registrarse o acceder con una cuenta de gmail.  Una vez dentro, es muy sencillo **subir un vídeo** a la plataforma, como se muestra en este[ manual](http://catedu.es/materialesaularagon2013/web20/MANUALES/youtube.pdf).
 
  
 
- Como recurso web 2.0, lo interesante de **Youtube no es sólo la opción de subir, buscar o compartir vídeos**, sino que nos permite **incrustarlos en nuestros blogs**, wikis o webs de clase o de centro, de la forma que hemos explicado en este módulo.
+Como recurso web 2.0, lo interesante de **Youtube no es sólo la opción de subir, buscar o compartir vídeos**, sino que nos permite **incrustarlos en nuestros blogs**, wikis o webs de clase o de centro, de la forma que hemos explicado en este módulo.
 

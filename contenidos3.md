@@ -1,17 +1,17 @@
 
 # Contenidos
 
-UNIDAD 1: CONCEPTO DE BUSCADOR
+### UNIDAD 1: CONCEPTO DE BUSCADOR
 
 1.1. La necesidad de los buscadores.
 
 1.2. Tipos de buscadores.
 
-Índices de búsqueda.
+* Índices de búsqueda.
 
-Motores de búsqueda.
+* Motores de búsqueda.
 
-Metabuscadores.
+* Metabuscadores.
 
 1.3. Algunas preguntas en el aire.
 
@@ -19,7 +19,7 @@ Metabuscadores.
 
  
 
-UNIDAD 2: UTILIZACIÓN BÁSICA DE UN BUSCADOR
+### UNIDAD 2: UTILIZACIÓN BÁSICA DE UN BUSCADOR
 
 2.1. Posibilidades generales de Google.
 
@@ -33,27 +33,27 @@ UNIDAD 2: UTILIZACIÓN BÁSICA DE UN BUSCADOR
 
 2.6. Otros productos y utilidades.
 
-Traductor de Google.
+* Traductor de Google.
 
-Google Maps.
+* Google Maps.
 
-Google Earth.
+* Google Earth.
 
-Gmail.
+* Gmail.
 
-Blogger.
+* Blogger.
 
-Google Calendar.
+* Google Calendar.
 
-Google Docs.
+* Google Docs.
 
-Google Sites.
+* Google Sites.
 
-Picasa.
+* Picasa.
 
  
 
- UNIDAD 3: DESCARGA DE MATERIALES
+### UNIDAD 3: DESCARGA DE MATERIALES
 
 3.1. Imprimir parte de una página.
 

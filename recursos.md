@@ -2,7 +2,7 @@
 # Recursos
 
 
-![](Herramientas_web_2_0.jpg)
+![](img/Herramientas_web_2_0.jpg)
 
  
 
@@ -17,16 +17,12 @@ Para acceder a ellas de una forma guiada, basada en el análisis y experiencia p
 * [J.R 2.0 - Guía de servicios Web 2.0. para la educación](http://www.catedu.es/arablogs/blog.php?id_blog=1145): Blog en el que Jose Ramón Olalla nos presenta un gran número de servicios web 2.0 clasificados por temas (almacenamiento, vídeo, imagen, líneas de tiempo, aulas virtuales, animaciones,...).
 
 
-![](img/jr_2.0.JPG)
+![6-4- Blog JR 2-0- Captura de pantalla](img/jr_2.0.JPG)
 
- 6-4- Blog JR 2-0- Captura de pantalla
-
- *[ FacilyTIC](http://www.catedu.es/facilytic/): Una página del CATEDU que pone a nuestra disposición ayudas y tutoriales de las herramientas básicas para integrar las TIC en nuestras aulas.
+* [FacilyTIC](http://www.catedu.es/facilytic/): Una página del CATEDU que pone a nuestra disposición ayudas y tutoriales de las herramientas básicas para integrar las TIC en nuestras aulas.
 
 
-![](img/facilyTIC.JPG)
-
-- 6-5- FacilyTIC-Captura de pantalla
+![6-5- FacilyTIC-Captura de pantalla](img/facilyTIC.JPG)
 
 * [Blog Recursos Web 2.0](http://recursosweb2.blogia.com/): Una buena selección de recurso clasisficados por utilidades.
 

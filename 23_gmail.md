@@ -12,11 +12,11 @@ Por ello, en los siguientes tutoriales se nos explica como crear una cuenta en g
  
 
 
-![](img/google_wikipedia.png)
+![1.25. Gmail.](img/google_wikipedia.png)
 
-1.25. Gmail.
 
-## Para Saber Más
-
-Si te interesa aprender a importar correos a gmail desde otra cuenta, lee el siguiente documento. [Importar correos.](Importar_a_gmail_una_cuenta_de_educa.aragon.es.pdf)
+>**tip**
+>## Para Saber Más
+>
+>Si te interesa aprender a importar correos a gmail desde otra cuenta, lee el siguiente documento. [Importar correos.](Importar_a_gmail_una_cuenta_de_educa.aragon.es.pdf)
 

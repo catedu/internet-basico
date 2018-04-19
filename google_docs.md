@@ -10,9 +10,8 @@ Para acceder a Google Docs pincha en: [https://accounts.google.com/](https://ac
  
 
 
-![](img/google_docs.jpg)
+![4.27. Google Docs. Captura de pantalla.](img/google_docs.jpg)
 
- 4.27. Google Docs. Captura de pantalla.
-
+ 
  
 

@@ -13,7 +13,7 @@ Google Drive nos ofrece **15 GB** de almacenamiento en la red a los que podemos 
 
 <iframe frameborder="0" height="511" marginheight="0" marginwidth="0" scrolling="no" src="http://www.slideshare.net/slideshow/embed_code/14770059" style="border-width: 1px 1px 0px; border-style: solid; border-color: #cccccc; margin-right: auto; margin-bottom: 5px; margin-left: auto; display: block;" width="479"></iframe>
 
-## tarea
+## Tarea
 
 Durante el curso hemos abierto una cuenta de gmail. Accede con ella a las aplicaciones de Google y prueba a subir varios archivos de formatos diferentes a Google Drive (fotos, docs, powerpoint,...), compartelos (con el tutor, si quieres), editalos,... y prueba otras opciones que se han explicado en este apartado.
 

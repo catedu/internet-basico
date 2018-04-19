@@ -3,12 +3,7 @@
 
 Si pulsamos en el icono "nuevo correo" podremos escribir un correo nuevo. La pantalla que nos aparece es la siguiente:
 
-
-![](img/correo4.jpg)
-
-1.11. Envío de correos. Captura de pantalla.
-
- 
+![1.11. Envío de correos. Captura de pantalla.](img/correo4.jpg)
 
 En la pantalla nos aparecen tres líneas. La primera, **Para**, es el lugar en el que escribiremos la dirección del destinatario. Si pinchamos en el icono que tiene al lado **+** podremos seleccionar la dirección de entre las que tenemos guardadas en nuestra agenda de direcciones (más adelante explicaremos cómo construir nuestra agenda de direcciones).
 
@@ -21,9 +16,9 @@ Y, por último, tenemos una zona blanca, que es el lugar en el que escribiremos 
 Vemos que en la parte superior nos aparece la barra de herramientas con una serie de opciones.
 
 
-![](img/correo5.jpg)
+![1.12. Menú. Captura de pantalla.](img/correo5.jpg)
 
-1.12. Menú. Captura de pantalla.
+
 
  
 
@@ -36,27 +31,26 @@ Vemos que en la parte superior nos aparece la barra de herramientas con una seri
  
 
 
-![](img/correo6.jpg)
+![1.13. Elegir archivo. Captura de pantalla.](img/correo6.jpg)
 
- 1.13. Elegir archivo. Captura de pantalla.
-
+ 
  
 
 Seleccionaremos el archivo que queramos adjuntar y pulsamos en el botón Abrir. Nos aparecerá esta otra ventana:
 
 
-![](img/correo7.jpg)
+![1.14. Adjuntar archivo. Captura de pantalla.](img/correo7.jpg)
 
- 1.14. Adjuntar archivo. Captura de pantalla.
+ 
 
  
 
 Si pinchamos en** ... **se nos dan varias opciones:
 
 
-![](img/correo8.jpg)
+![1.15. Opciones de mensaje. Captura de pantalla.](img/correo8.jpg)
 
- 1.15. Opciones de mensaje. Captura de pantalla.
+ 
 
  
 

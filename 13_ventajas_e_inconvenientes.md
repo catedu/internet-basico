@@ -20,9 +20,9 @@ Como hemos visto, las redes sociales han generado un cambio importante en distin
 - Favorecer la** educación** formal e informal.
 
 
-![](img/4584863851_f2490550a5.jpg)
+![7-3 Redes sociales- Autor: Isa Gl- Fuente: http://www.flickr.com/photos/nscap/4584863851/ CC](img/4584863851_f2490550a5.jpg)
 
- 7-3 Redes sociales- Autor: Isa Gl- Fuente: http://www.flickr.com/photos/nscap/4584863851/ CC
+ 
 
  
 
@@ -35,9 +35,8 @@ Como hemos visto, las redes sociales han generado un cambio importante en distin
 - **Suplantación de personalidad** (ejem.: grooming)
 
 
-![](img/8360886528_67472fd9c5_o.jpg)
+![7-4 Social network friends- Autor: Adrian Serghie- Fuente: http://www.flickr.com/photos/adrianserghie/8360886528/ CC](img/8360886528_67472fd9c5_o.jpg)
 
-- 7-4 Social network friends- Autor: Adrian Serghie- Fuente: http://www.flickr.com/photos/adrianserghie/8360886528/ CC
 
 ## Ventajas e inconvenientes
 

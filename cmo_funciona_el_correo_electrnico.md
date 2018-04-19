@@ -9,42 +9,9 @@ Como se puede deducir el correo electrónico no trabaja en tiempo real. Los mens
 
 **Selecciona si son verdaderas o falsas las siguientes afirmaciones:**
 
-### Pregunta 1
-
-El servidor de correo es un ordenador perteneciente a la red de Internet por lo que tiene conexión directa y permanente a la Red.
-
-
-<label for="true0b44"><input id="true0b44" name="option0b44" onclick="$exe.getFeedback(0,2,'0b44','truefalse')" type="radio"/> Verdadero</label>
-<label for="false0b44"><input id="false0b44" name="option0b44" onclick="$exe.getFeedback(1,2,'0b44','truefalse')" type="radio"/> Falso</label>
-
-
-#### Retroalimentación
-
-**Verdadero**
-
-### Pregunta 2
-
-Las direcciones de correo electrónico responden siempre a una misma estructura, formada por dos partes separadas por el símbolo almohadilla (#) y que hacen referencia: la  primera al nombre del usuario y la segunda al nombre de dominio del servidor de correo.
-
-
-<label for="true1b44"><input id="true1b44" name="option1b44" onclick="$exe.getFeedback(0,2,'1b44','truefalse')" type="radio"/> Verdadero</label>
-<label for="false1b44"><input id="false1b44" name="option1b44" onclick="$exe.getFeedback(1,2,'1b44','truefalse')" type="radio"/> Falso</label>
-
-
-#### Retroalimentación
-
-**Falso**
-
-### Pregunta 3
-
-El correo electrónico trabaja en tiempo real.
-
-
-<label for="true2b44"><input id="true2b44" name="option2b44" onclick="$exe.getFeedback(0,2,'2b44','truefalse')" type="radio"/> Verdadero</label>
-<label for="false2b44"><input id="false2b44" name="option2b44" onclick="$exe.getFeedback(1,2,'2b44','truefalse')" type="radio"/> Falso</label>
-
-
-#### Retroalimentación
-
-**Falso**
-
+<quiz name="">
+<question><p>El servidor de correo es un ordenador perteneciente a la red de Internet por lo que tiene conexión directa y permanente a la Red.</p><answer correct>Verdadero</answer><answer>Falso</answer></question>
+<question><p>Las direcciones de correo electrónico responden siempre a una misma estructura, formada por dos partes separadas por el símbolo almohadilla (#) y que hacen referencia: la  primera al nombre del usuario y la segunda al nombre de dominio del servidor de correo.
+</p><answer>Verdadero</answer><answer correct>Falso</answer></question>
+<question><p>El correo electrónico trabaja en tiempo real.</p><answer>Verdadero</answer><answer correct>Falso</answer></question>
+</quiz>

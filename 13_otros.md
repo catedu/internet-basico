@@ -2,11 +2,8 @@
 # 1.3. OTROS
 
 
-![](img/2613100984_e072b7627b.jpg)
+![5-17- Aplicaciones portables- Autor: Nestor Alonso- Fuente: http://www.flickr.com/photos/nestoralonso/2613100984/ CC](img/2613100984_e072b7627b.jpg)
 
-- 5-17- Aplicaciones portables- Autor: Nestor Alonso- Fuente: http://www.flickr.com/photos/nestoralonso/2613100984/ CC
-
- 
 
 Existen otros portales educativos intersantes que podéis consultar:
 
@@ -20,7 +17,7 @@ Existen otros portales educativos intersantes que podéis consultar:
 
 - [Wikisaber](http://www.wikisaber.es/Home.aspx): Es una plataforma que incluye diferentes servicios: contenidos, recursos, experiencias, noticias, wiki, blogs de autores destacados en el campo de la educación,... pero también la opción de pertenecer a esta comunidad a través de una red social.
 
--[ Orientación Andújar](http://www.orientacionandujar.es/): Es un portal que ofrece infinidad de materiales educativos, principalmente en formato de fichas, para todas las etapas educativas. Muy orientado a la atención a la diversidad.
+- [Orientación Andújar](http://www.orientacionandujar.es/): Es un portal que ofrece infinidad de materiales educativos, principalmente en formato de fichas, para todas las etapas educativas. Muy orientado a la atención a la diversidad.
 
 - [Educaguia](http://www.educaguia.com/): Es un portal con información sobre educación formal para las distintas etapas de la vida, e-learning, recursos educativos, software,... Además ofrece otros servicios como aula virtual, red social educativa, web,...
 

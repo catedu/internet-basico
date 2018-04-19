@@ -7,19 +7,17 @@ Además, puede ser una herramienta de trabajo muy interesante en el aula puesto 
 
 Lo podemos utilizar pinchando en: [http://translate.google.es/?hl=en](http://translate.google.es/?hl=en)
 
- 
 
+![4.21. Traductor de Google. Captura de pantalla.](img/traductor_de_google.jpg)
 
-![](img/traductor_de_google.jpg)
-
- 4.21. Traductor de Google. Captura de pantalla.
-
-## Para Saber Más
-
-Podemos ver el siguiente videotutorial para conocer el funcionamiento del traductor de Google.
-
- 
-
-
-{% youtube %}https//www.youtube.com/watch?v=mVUt7cEkzqw{% endyoutube %}
+ 
+>**tip**
+>## Para Saber Más
+>
+>Podemos ver el siguiente videotutorial para conocer el funcionamiento del traductor de Google.
+>
+> 
+>
+>
+>{% youtube %}https//www.youtube.com/watch?v=mVUt7cEkzqw{% endyoutube %}
 

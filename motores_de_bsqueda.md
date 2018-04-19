@@ -6,7 +6,7 @@ Temporalmente, los motores de búsqueda son posteriores a los índices. El conce
 Un buen ejemplo de motor de búsqueda es Google. En la próxima unidad veremos con detalle cómo realizar búsquedas con él. De momento, aquí tenemos el aspecto de su página principal.
 
 
-![](img/google.jpg)
+![4.4. Google. Captura de pantalla.](img/google.jpg)
 
- 4.4. Google. Captura de pantalla.
+ 
 

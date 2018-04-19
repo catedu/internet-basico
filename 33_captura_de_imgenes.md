@@ -14,9 +14,9 @@ Como verás a continuación el proceso de la **captura de imágenes** **desde la
  
 
 
-![](img/heraldo_de_aragon1.jpg)
+![4.38. Heraldo de Aragón. Captura de pantalla.](img/heraldo_de_aragon1.jpg)
 
- 4.38. Heraldo de Aragón. Captura de pantalla.
+ 
 
  
 
@@ -30,12 +30,5 @@ Como verás a continuación el proceso de la **captura de imágenes** **desde la
 
 Para capturar la imagen, basta con seleccionar la opción **Guardar imagen como...** A continuación se abrirá la ventana **Guardar imagen** desde la cual elegimos el lugar dónde queremos guardar el archivo, así como el nombre del archivo y la extensión o tipo de formato. Por último pulsamos el botón **Guardar.**
 
- 
-
-
-![](img/guardar_imagen.jpg)
-
- 4.39. Guardar imagen. Captura de pantalla.
-
- 
+![4.39. Guardar imagen. Captura de pantalla.](img/guardar_imagen.jpg)
 

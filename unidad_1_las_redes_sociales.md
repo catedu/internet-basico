@@ -2,11 +2,7 @@
 # UNIDAD 1: LAS REDES SOCIALES
 
 
-![](img/8464661409_32aa7a26a6_b.jpg)
-
- 5.1. Redes sociales. Autor: Frau Holler. Fuente: [https://clipsan.com/blog/socialni-site-seznamte-se/](https://clipsan.com/blog/socialni-site-seznamte-se/) CC
-
- 
+![5.1. Redes sociales. Autor: Frau Holler. Fuente: https://clipsan.com/blog/socialni-site-seznamte-se/ CC](img/8464661409_32aa7a26a6_b.jpg)
 
 Como hemos comenzado a ver, las redes sociales están pasando por un periodo de gran expansión y están cada vez más presentes en nuestras vidas, influyendo de forma directa en el cambio de muchas dinámicas sociales, empresariales, comerciales, personales,etc.
 

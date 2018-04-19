@@ -6,9 +6,9 @@ En el módulo 2 hemos visto el manejo básico del navegador, y cómo acceder a u
  
 
 
-![](img/lupa.jpg)
+![4.1. Lupa. Autor: Kuba. http://openclipart.org/detail/169660/earth-and-magnify-glass.-by-kuba.OpenClipArt.](img/lupa.jpg)
 
- 4.1. Lupa. Autor: Kuba. http://openclipart.org/detail/169660/earth-and-magnify-glass.-by-kuba.OpenClipArt.
+ 
 
  
 

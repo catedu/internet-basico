@@ -8,7 +8,7 @@ Para crear la cuenta de correo debemos acceder a la siguiente página: [https:/
  
 
 
-![](img/gmail.jpg)
+![4.24. Gmail. Captura de pantalla.](img/gmail.jpg)
 
- 4.24. Gmail. Captura de pantalla.
+ 
 

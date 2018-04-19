@@ -16,15 +16,6 @@ Además de presentaciones (powerpoints), también admite documentos, pdf, vídeo
 
 No es necesario registrarse para ver las presentaciones alojadas en su portal, pero sí para compartirlas o subir las nuestras propias.
 
-En este enlace hay un manual para subir contenidos a Slideshare:
-
-[http://www.catedu.es/facilytic/2013/10/09/comparte-tus-presentaciones-en-internet-con-slideshare/](http://www.catedu.es/facilytic/2013/10/09/comparte-tus-presentaciones-en-internet-con-slideshare/)
-
- Y aquí está explicado en un videotutorial:
-
- 
-
-
 {% youtube %}https//www.youtube.com/watch?v=6MF9lhZftgE{% endyoutube %}
 
  
@@ -36,7 +27,7 @@ En este enlace hay un manual para subir contenidos a Slideshare:
 
 Además, es interesante explorar otras publicaciones en su biblioteca, pues puede resultar una buena fuente de recursos.
 
-Para utilizar esta aplicación puedes seguir las explicaciones del siguiente manual:
+Para utilizar esta aplicación puedes seguir las explicaciones de [este manual](https://es.calameo.com/read/00016110557755d497082).
 
  
 
@@ -51,14 +42,11 @@ Para utilizar esta aplicación puedes seguir las explicaciones del siguiente man
 
  
 
-## Para Saber Más
-
-Otros sitios muy populares para alojar y compartir documentos son:
-
- 
-<td style="width: 300px; text-align: center;">**RECURSO**</td><td style="width: 300px; text-align: center;">**MANUAL**</td>
-
-![](scribd.JPG)
-
-![](issue.JPG)
+>**tip**
+>## Para Saber Más
+>
+>Otros sitios muy populares para alojar y compartir documentos son:
+>
+>* [Scribd](http://www.youtube.com/watch?v=c6lZ7RtPgMA)
+>* [ISSUU](http://es.slideshare.net/cristinamontano/tutorial-issu?from_search=1)
 

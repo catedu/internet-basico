@@ -1,12 +1,12 @@
 
 # Leer los correos
 
-Dentro de la **Bandeja**** de entrada, **como ya hemos dicho antes, nos aparecen los mensajes que hemos recibido. Delante del remitente de cada uno de los mensajes nos podemos encontrar los siguientes símbolos:
+Dentro de la **Bandeja** de entrada, **como ya hemos dicho antes, nos aparecen los mensajes que hemos recibido. Delante del remitente de cada uno de los mensajes nos podemos encontrar los siguientes símbolos:
 
 
-![](img/correo9.jpg)
+![1.16. Bandeja de entrada. Captura de pantalla.](img/correo9.jpg)
 
- 1.16. Bandeja de entrada. Captura de pantalla.
+ 
 
  
 
@@ -15,9 +15,9 @@ Para leer un correo hay que pinchar encima del mismo. En la zona de la derecha d
  
 
 
-![](img/correo10.jpg)
+![1.17. Leer mensajes. Captura de pantalla.](img/correo10.jpg)
 
- 1.17. Leer mensajes. Captura de pantalla.
+ 
 
  
 
@@ -28,9 +28,9 @@ Para descargar el fichero adjunto solo tenemos que pulsar sobre el mismo. Si, un
 Podemos utilizar la opción de **Vista previa**. Con** la vista previa **podemos ver el archivo sin necesidad de descargarlo en nuestro ordenador. Colocamos el ratón sobre el archivo adjunto y pinchamos en vista previa.
 
 
-![](img/correo11.jpg)
+![1.18. Vista previa. Captura de pantalla.](img/correo11.jpg)
 
-1.18. Vista previa. Captura de pantalla.
+
 
  
 
@@ -39,9 +39,9 @@ Una vez leído el correo tenemos varias opciones.
  
 
 
-![](img/correo12.jpg)
+![1.19. Opciones tras la lectura. Captura de pantalla.](img/correo12.jpg)
 
- 1.19. Opciones tras la lectura. Captura de pantalla.
+ 
 
  
 
@@ -55,9 +55,9 @@ Una vez leído el correo tenemos varias opciones.
 
 **Podemos consultar los documentos que se muestran a continuación donde se nos explica como enviar y recibir mensajes:**
 
-[Enviar y recibir mensajes](COR_EDU_ENVIARRECIBIRMENSAJES.PDF)
+[Guía de inicio rápido de correo electrónico web](https://ast.aragon.es/sites/default/files/guia_de_inicio_rapido_de_correo.pdf)
 
-[Enviar y recibir mensajes con navegadores antigüos](COR_EDU_ENVIARRECIBIRMENSAJESNAVANT.pdf)
+[Web Puesto de Trabajo Digital de AST](https://ast.aragon.es/correo-electronico-y-herramientas-colaborativas)
 
  
 

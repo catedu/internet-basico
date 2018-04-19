@@ -8,9 +8,9 @@ El primer índice de búsqueda que apareció fue Yahoo! que sigue ofreciendo sus
  
 
 
-![](img/yahoo.jpg)
+![4.3. Yahoo. Captura de pantalla.](img/yahoo.jpg)
 
- 4.3. Yahoo. Captura de pantalla.
+ 
 
  
 

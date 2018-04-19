@@ -21,20 +21,23 @@ En el siguiente vídeo, se explica cómo la Web 2.0 se ha ido haciendo un hueco 
 
  
 
-## Importante
 
-Hasta ahora hemos visto cómo se **justificaba la integración de la Web 2.0 en las aulas**. Para reforzar la idea de que una **nueva sociedad necesita una escuela con planteamientos renovados** (metodología, herramientas, accesibilidad, conectividad,...) vamos a ver este vídeo que nos plantea algunos puntos importantes de reflexión:
+>**info**
+>## Importante
+>
+>Hasta ahora hemos visto cómo se **justificaba la integración de la Web 2.0 en las aulas**. Para reforzar la idea de que una **nueva sociedad necesita una escuela con planteamientos renovados** (metodología, herramientas, accesibilidad, conectividad,...) vamos a ver este vídeo que nos plantea algunos puntos importantes de reflexión:
+>
+>  
+>
+>
+>{% youtube %}https//www.youtube.com/watch?v=ZgtbF20K33I?list=PLomVskJLH_o2HMUbScJAgCkBgYOS4JwrW{% endyoutube %}
 
-  
+___
 
-
-{% youtube %}https//www.youtube.com/watch?v=ZgtbF20K33I?list=PLomVskJLH_o2HMUbScJAgCkBgYOS4JwrW{% endyoutube %}
-
- 
-
-## Para Saber Más
-
-Si quieres conocer más a fondo la Web 2.0 puedes consultar este artículo del ObservatorioTecnológico del MECD:
-
-[http://recursostic.educacion.es/observatorio/web/es/internet/web-20/1060-la-web-20-recursos-educativos](http://recursostic.educacion.es/observatorio/web/es/internet/web-20/1060-la-web-20-recursos-educativos)
+>**tip**
+>## Para Saber Más
+>
+>Si quieres conocer más a fondo la Web 2.0 puedes consultar este artículo del ObservatorioTecnológico del MECD:
+>
+>[http://recursostic.educacion.es/observatorio/web/es/internet/web-20/1060-la-web-20-recursos-educativos](http://recursostic.educacion.es/observatorio/web/es/internet/web-20/1060-la-web-20-recursos-educativos)
 

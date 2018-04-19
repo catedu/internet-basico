@@ -2,11 +2,8 @@
 # Google +
 
 
-![](img/Google_logo.png)
+![7-10- Google+_logo- Fuente: Wikipedia- CC](img/Google_logo.png)
 
-- 7-10- Google+_logo- Fuente: Wikipedia- CC
-
- 
 
 El proyecto [Google Plus ](https://accounts.google.com/ServiceLogin?service=oz&amp;passive=1209600&amp;continue=https://plus.google.com/?gpsrc%3Dogpy0%26tab%3DwX%26partnerid%3Dogpy0)(Google +) es una **red social desarrollada por Google** que fue presentada en junio de 2011 con el objetivo de competir frente a Facebook.
 
@@ -27,11 +24,12 @@ Otro aspecto destacable de G+ es que el hecho de pertenecer a Google, **permite 
 
 **Muchas de las herramientas que nos ofrece Google tienen evidentes aplicaciones dentro de un entorno educativo Web 2.0**, por tanto, **Google + puede ser una interesante plataforma para centralizar muchos de esos usos y compartir con nuestros alumnos** (desde un círculo) **o nuestros compañeros** (desde otro) actividades, recursos, comentarios, etc. y explotándolo más como red social, ponernos en contacto con otros grupos de docentres, centros, aulas,... con las que desarrollar proyectos conjuntos.
 
-## Para Saber Más
-
-**Si quieres conocer más** de esta red social puedes consultar los siguientes artículos o tutoriales:
-
-[Manual de ayuda  oficial de Google +. ](https://support.google.com/plus/?hl=es#topic=3049661)Te explica desde cómo registrarte a cómo utilizar y sacar partido a cada una de sus utilidades. Si te registras la información es más completa (te muestra videotutoriales y visitas guiadas).
-
-[Manual de uso de Google +](http://www.emezeta.com/articulos/manual-de-uso-de-google-plus) (Blog Emezeta Blog): nos explica apoyandose en capturas de pantalla qué partes y aplicaciones tiene G+ y cómo emplear cada una de ellas.
+>**tip**
+>## Para Saber Más
+>
+>**Si quieres conocer más** de esta red social puedes consultar los siguientes artículos o tutoriales:
+>
+>[Manual de ayuda  oficial de Google +. ](https://support.google.com/plus/?hl=es#topic=3049661)Te explica desde cómo registrarte a cómo utilizar y sacar partido a cada una de sus utilidades. Si te registras la información es más completa (te muestra videotutoriales y visitas guiadas).
+>
+>[Manual de uso de Google +](http://www.emezeta.com/articulos/manual-de-uso-de-google-plus) (Blog Emezeta Blog): nos explica apoyandose en capturas de pantalla qué partes y aplicaciones tiene G+ y cómo emplear cada una de ellas.
 
