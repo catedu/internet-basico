@@ -24,7 +24,7 @@ Finalmente, destacar el apartado de **FORMACIÓN PROFESORADO**, desde el que se 
 >
 >En la [plataforma Aularagón ](http://moodle.catedu.es/)se alojan muchísimos cursos de formación del profesorado. Puedes acceder al contenido o parte teórica de los cursos en [https://legacy.gitbook.com/@catedu](https://legacy.gitbook.com/@catedu). Utiliza su buscaro para encontrar el libro que más te interese. También puedes descargar los libros para leerlos en formato pdf, epub o mobi.
 
->![](https://catedu.gitbooks.io/faq-aularagon/content/assets/descargacursos.png)
+>![](https://catedu.github.io/faq-aularagon/assets/descargacursos.png)
 >
 >Sin embargo, si quieres **los cursos y sus actividades** puedes acceder como invitado a [Aularagón](http://moodle.catedu.es/) sin necesidad de contraseña alguna.
 
